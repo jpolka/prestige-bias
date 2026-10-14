@@ -1,0 +1,1801 @@
+custom_id,doi,tier,institution
+p000_c00,10.64898/2026.10.12.758052,high,Harvard University
+p000_c01,10.64898/2026.10.12.758052,high,Stanford University
+p000_c02,10.64898/2026.10.12.758052,high,Massachusetts Institute of Technology
+p000_c03,10.64898/2026.10.12.758052,high,"University of California, San Francisco"
+p000_c04,10.64898/2026.10.12.758052,high,Yale University
+p000_c05,10.64898/2026.10.12.758052,mid,University of Kentucky
+p000_c06,10.64898/2026.10.12.758052,mid,University of Kansas
+p000_c07,10.64898/2026.10.12.758052,mid,University of New Mexico
+p000_c08,10.64898/2026.10.12.758052,mid,Oklahoma State University
+p000_c09,10.64898/2026.10.12.758052,mid,University of South Carolina
+p000_c10,10.64898/2026.10.12.758052,low,Austin Peay State University
+p000_c11,10.64898/2026.10.12.758052,low,Murray State University
+p000_c12,10.64898/2026.10.12.758052,low,University of Central Arkansas
+p000_c13,10.64898/2026.10.12.758052,low,University of Wisconsin-La Crosse
+p000_c14,10.64898/2026.10.12.758052,low,Western Illinois University
+p000_c15,10.64898/2026.10.12.758052,fictional,Halvern University
+p000_c16,10.64898/2026.10.12.758052,fictional,Ashcombe University
+p000_c17,10.64898/2026.10.12.758052,none,
+p001_c00,10.64898/2026.10.12.758622,high,Harvard University
+p001_c01,10.64898/2026.10.12.758622,high,Stanford University
+p001_c02,10.64898/2026.10.12.758622,high,Massachusetts Institute of Technology
+p001_c03,10.64898/2026.10.12.758622,high,"University of California, San Francisco"
+p001_c04,10.64898/2026.10.12.758622,high,Yale University
+p001_c05,10.64898/2026.10.12.758622,mid,University of Kentucky
+p001_c06,10.64898/2026.10.12.758622,mid,University of Kansas
+p001_c07,10.64898/2026.10.12.758622,mid,University of New Mexico
+p001_c08,10.64898/2026.10.12.758622,mid,Oklahoma State University
+p001_c09,10.64898/2026.10.12.758622,mid,University of South Carolina
+p001_c10,10.64898/2026.10.12.758622,low,Austin Peay State University
+p001_c11,10.64898/2026.10.12.758622,low,Murray State University
+p001_c12,10.64898/2026.10.12.758622,low,University of Central Arkansas
+p001_c13,10.64898/2026.10.12.758622,low,University of Wisconsin-La Crosse
+p001_c14,10.64898/2026.10.12.758622,low,Western Illinois University
+p001_c15,10.64898/2026.10.12.758622,fictional,Halvern University
+p001_c16,10.64898/2026.10.12.758622,fictional,Ashcombe University
+p001_c17,10.64898/2026.10.12.758622,none,
+p002_c00,10.64898/2026.10.12.758623,high,Harvard University
+p002_c01,10.64898/2026.10.12.758623,high,Stanford University
+p002_c02,10.64898/2026.10.12.758623,high,Massachusetts Institute of Technology
+p002_c03,10.64898/2026.10.12.758623,high,"University of California, San Francisco"
+p002_c04,10.64898/2026.10.12.758623,high,Yale University
+p002_c05,10.64898/2026.10.12.758623,mid,University of Kentucky
+p002_c06,10.64898/2026.10.12.758623,mid,University of Kansas
+p002_c07,10.64898/2026.10.12.758623,mid,University of New Mexico
+p002_c08,10.64898/2026.10.12.758623,mid,Oklahoma State University
+p002_c09,10.64898/2026.10.12.758623,mid,University of South Carolina
+p002_c10,10.64898/2026.10.12.758623,low,Austin Peay State University
+p002_c11,10.64898/2026.10.12.758623,low,Murray State University
+p002_c12,10.64898/2026.10.12.758623,low,University of Central Arkansas
+p002_c13,10.64898/2026.10.12.758623,low,University of Wisconsin-La Crosse
+p002_c14,10.64898/2026.10.12.758623,low,Western Illinois University
+p002_c15,10.64898/2026.10.12.758623,fictional,Halvern University
+p002_c16,10.64898/2026.10.12.758623,fictional,Ashcombe University
+p002_c17,10.64898/2026.10.12.758623,none,
+p003_c00,10.64898/2026.10.13.758515,high,Harvard University
+p003_c01,10.64898/2026.10.13.758515,high,Stanford University
+p003_c02,10.64898/2026.10.13.758515,high,Massachusetts Institute of Technology
+p003_c03,10.64898/2026.10.13.758515,high,"University of California, San Francisco"
+p003_c04,10.64898/2026.10.13.758515,high,Yale University
+p003_c05,10.64898/2026.10.13.758515,mid,University of Kentucky
+p003_c06,10.64898/2026.10.13.758515,mid,University of Kansas
+p003_c07,10.64898/2026.10.13.758515,mid,University of New Mexico
+p003_c08,10.64898/2026.10.13.758515,mid,Oklahoma State University
+p003_c09,10.64898/2026.10.13.758515,mid,University of South Carolina
+p003_c10,10.64898/2026.10.13.758515,low,Austin Peay State University
+p003_c11,10.64898/2026.10.13.758515,low,Murray State University
+p003_c12,10.64898/2026.10.13.758515,low,University of Central Arkansas
+p003_c13,10.64898/2026.10.13.758515,low,University of Wisconsin-La Crosse
+p003_c14,10.64898/2026.10.13.758515,low,Western Illinois University
+p003_c15,10.64898/2026.10.13.758515,fictional,Halvern University
+p003_c16,10.64898/2026.10.13.758515,fictional,Ashcombe University
+p003_c17,10.64898/2026.10.13.758515,none,
+p004_c00,10.64898/2026.10.13.758586,high,Harvard University
+p004_c01,10.64898/2026.10.13.758586,high,Stanford University
+p004_c02,10.64898/2026.10.13.758586,high,Massachusetts Institute of Technology
+p004_c03,10.64898/2026.10.13.758586,high,"University of California, San Francisco"
+p004_c04,10.64898/2026.10.13.758586,high,Yale University
+p004_c05,10.64898/2026.10.13.758586,mid,University of Kentucky
+p004_c06,10.64898/2026.10.13.758586,mid,University of Kansas
+p004_c07,10.64898/2026.10.13.758586,mid,University of New Mexico
+p004_c08,10.64898/2026.10.13.758586,mid,Oklahoma State University
+p004_c09,10.64898/2026.10.13.758586,mid,University of South Carolina
+p004_c10,10.64898/2026.10.13.758586,low,Austin Peay State University
+p004_c11,10.64898/2026.10.13.758586,low,Murray State University
+p004_c12,10.64898/2026.10.13.758586,low,University of Central Arkansas
+p004_c13,10.64898/2026.10.13.758586,low,University of Wisconsin-La Crosse
+p004_c14,10.64898/2026.10.13.758586,low,Western Illinois University
+p004_c15,10.64898/2026.10.13.758586,fictional,Halvern University
+p004_c16,10.64898/2026.10.13.758586,fictional,Ashcombe University
+p004_c17,10.64898/2026.10.13.758586,none,
+p005_c00,10.64898/2026.10.13.758738,high,Harvard University
+p005_c01,10.64898/2026.10.13.758738,high,Stanford University
+p005_c02,10.64898/2026.10.13.758738,high,Massachusetts Institute of Technology
+p005_c03,10.64898/2026.10.13.758738,high,"University of California, San Francisco"
+p005_c04,10.64898/2026.10.13.758738,high,Yale University
+p005_c05,10.64898/2026.10.13.758738,mid,University of Kentucky
+p005_c06,10.64898/2026.10.13.758738,mid,University of Kansas
+p005_c07,10.64898/2026.10.13.758738,mid,University of New Mexico
+p005_c08,10.64898/2026.10.13.758738,mid,Oklahoma State University
+p005_c09,10.64898/2026.10.13.758738,mid,University of South Carolina
+p005_c10,10.64898/2026.10.13.758738,low,Austin Peay State University
+p005_c11,10.64898/2026.10.13.758738,low,Murray State University
+p005_c12,10.64898/2026.10.13.758738,low,University of Central Arkansas
+p005_c13,10.64898/2026.10.13.758738,low,University of Wisconsin-La Crosse
+p005_c14,10.64898/2026.10.13.758738,low,Western Illinois University
+p005_c15,10.64898/2026.10.13.758738,fictional,Halvern University
+p005_c16,10.64898/2026.10.13.758738,fictional,Ashcombe University
+p005_c17,10.64898/2026.10.13.758738,none,
+p006_c00,10.64898/2026.10.13.758867,high,Harvard University
+p006_c01,10.64898/2026.10.13.758867,high,Stanford University
+p006_c02,10.64898/2026.10.13.758867,high,Massachusetts Institute of Technology
+p006_c03,10.64898/2026.10.13.758867,high,"University of California, San Francisco"
+p006_c04,10.64898/2026.10.13.758867,high,Yale University
+p006_c05,10.64898/2026.10.13.758867,mid,University of Kentucky
+p006_c06,10.64898/2026.10.13.758867,mid,University of Kansas
+p006_c07,10.64898/2026.10.13.758867,mid,University of New Mexico
+p006_c08,10.64898/2026.10.13.758867,mid,Oklahoma State University
+p006_c09,10.64898/2026.10.13.758867,mid,University of South Carolina
+p006_c10,10.64898/2026.10.13.758867,low,Austin Peay State University
+p006_c11,10.64898/2026.10.13.758867,low,Murray State University
+p006_c12,10.64898/2026.10.13.758867,low,University of Central Arkansas
+p006_c13,10.64898/2026.10.13.758867,low,University of Wisconsin-La Crosse
+p006_c14,10.64898/2026.10.13.758867,low,Western Illinois University
+p006_c15,10.64898/2026.10.13.758867,fictional,Halvern University
+p006_c16,10.64898/2026.10.13.758867,fictional,Ashcombe University
+p006_c17,10.64898/2026.10.13.758867,none,
+p007_c00,10.64898/2026.10.08.757790,high,Harvard University
+p007_c01,10.64898/2026.10.08.757790,high,Stanford University
+p007_c02,10.64898/2026.10.08.757790,high,Massachusetts Institute of Technology
+p007_c03,10.64898/2026.10.08.757790,high,"University of California, San Francisco"
+p007_c04,10.64898/2026.10.08.757790,high,Yale University
+p007_c05,10.64898/2026.10.08.757790,mid,University of Kentucky
+p007_c06,10.64898/2026.10.08.757790,mid,University of Kansas
+p007_c07,10.64898/2026.10.08.757790,mid,University of New Mexico
+p007_c08,10.64898/2026.10.08.757790,mid,Oklahoma State University
+p007_c09,10.64898/2026.10.08.757790,mid,University of South Carolina
+p007_c10,10.64898/2026.10.08.757790,low,Austin Peay State University
+p007_c11,10.64898/2026.10.08.757790,low,Murray State University
+p007_c12,10.64898/2026.10.08.757790,low,University of Central Arkansas
+p007_c13,10.64898/2026.10.08.757790,low,University of Wisconsin-La Crosse
+p007_c14,10.64898/2026.10.08.757790,low,Western Illinois University
+p007_c15,10.64898/2026.10.08.757790,fictional,Halvern University
+p007_c16,10.64898/2026.10.08.757790,fictional,Ashcombe University
+p007_c17,10.64898/2026.10.08.757790,none,
+p008_c00,10.64898/2026.10.09.757662,high,Harvard University
+p008_c01,10.64898/2026.10.09.757662,high,Stanford University
+p008_c02,10.64898/2026.10.09.757662,high,Massachusetts Institute of Technology
+p008_c03,10.64898/2026.10.09.757662,high,"University of California, San Francisco"
+p008_c04,10.64898/2026.10.09.757662,high,Yale University
+p008_c05,10.64898/2026.10.09.757662,mid,University of Kentucky
+p008_c06,10.64898/2026.10.09.757662,mid,University of Kansas
+p008_c07,10.64898/2026.10.09.757662,mid,University of New Mexico
+p008_c08,10.64898/2026.10.09.757662,mid,Oklahoma State University
+p008_c09,10.64898/2026.10.09.757662,mid,University of South Carolina
+p008_c10,10.64898/2026.10.09.757662,low,Austin Peay State University
+p008_c11,10.64898/2026.10.09.757662,low,Murray State University
+p008_c12,10.64898/2026.10.09.757662,low,University of Central Arkansas
+p008_c13,10.64898/2026.10.09.757662,low,University of Wisconsin-La Crosse
+p008_c14,10.64898/2026.10.09.757662,low,Western Illinois University
+p008_c15,10.64898/2026.10.09.757662,fictional,Halvern University
+p008_c16,10.64898/2026.10.09.757662,fictional,Ashcombe University
+p008_c17,10.64898/2026.10.09.757662,none,
+p009_c00,10.64898/2026.10.09.757844,high,Harvard University
+p009_c01,10.64898/2026.10.09.757844,high,Stanford University
+p009_c02,10.64898/2026.10.09.757844,high,Massachusetts Institute of Technology
+p009_c03,10.64898/2026.10.09.757844,high,"University of California, San Francisco"
+p009_c04,10.64898/2026.10.09.757844,high,Yale University
+p009_c05,10.64898/2026.10.09.757844,mid,University of Kentucky
+p009_c06,10.64898/2026.10.09.757844,mid,University of Kansas
+p009_c07,10.64898/2026.10.09.757844,mid,University of New Mexico
+p009_c08,10.64898/2026.10.09.757844,mid,Oklahoma State University
+p009_c09,10.64898/2026.10.09.757844,mid,University of South Carolina
+p009_c10,10.64898/2026.10.09.757844,low,Austin Peay State University
+p009_c11,10.64898/2026.10.09.757844,low,Murray State University
+p009_c12,10.64898/2026.10.09.757844,low,University of Central Arkansas
+p009_c13,10.64898/2026.10.09.757844,low,University of Wisconsin-La Crosse
+p009_c14,10.64898/2026.10.09.757844,low,Western Illinois University
+p009_c15,10.64898/2026.10.09.757844,fictional,Halvern University
+p009_c16,10.64898/2026.10.09.757844,fictional,Ashcombe University
+p009_c17,10.64898/2026.10.09.757844,none,
+p010_c00,10.64898/2026.10.09.757966,high,Harvard University
+p010_c01,10.64898/2026.10.09.757966,high,Stanford University
+p010_c02,10.64898/2026.10.09.757966,high,Massachusetts Institute of Technology
+p010_c03,10.64898/2026.10.09.757966,high,"University of California, San Francisco"
+p010_c04,10.64898/2026.10.09.757966,high,Yale University
+p010_c05,10.64898/2026.10.09.757966,mid,University of Kentucky
+p010_c06,10.64898/2026.10.09.757966,mid,University of Kansas
+p010_c07,10.64898/2026.10.09.757966,mid,University of New Mexico
+p010_c08,10.64898/2026.10.09.757966,mid,Oklahoma State University
+p010_c09,10.64898/2026.10.09.757966,mid,University of South Carolina
+p010_c10,10.64898/2026.10.09.757966,low,Austin Peay State University
+p010_c11,10.64898/2026.10.09.757966,low,Murray State University
+p010_c12,10.64898/2026.10.09.757966,low,University of Central Arkansas
+p010_c13,10.64898/2026.10.09.757966,low,University of Wisconsin-La Crosse
+p010_c14,10.64898/2026.10.09.757966,low,Western Illinois University
+p010_c15,10.64898/2026.10.09.757966,fictional,Halvern University
+p010_c16,10.64898/2026.10.09.757966,fictional,Ashcombe University
+p010_c17,10.64898/2026.10.09.757966,none,
+p011_c00,10.64898/2026.10.09.758062,high,Harvard University
+p011_c01,10.64898/2026.10.09.758062,high,Stanford University
+p011_c02,10.64898/2026.10.09.758062,high,Massachusetts Institute of Technology
+p011_c03,10.64898/2026.10.09.758062,high,"University of California, San Francisco"
+p011_c04,10.64898/2026.10.09.758062,high,Yale University
+p011_c05,10.64898/2026.10.09.758062,mid,University of Kentucky
+p011_c06,10.64898/2026.10.09.758062,mid,University of Kansas
+p011_c07,10.64898/2026.10.09.758062,mid,University of New Mexico
+p011_c08,10.64898/2026.10.09.758062,mid,Oklahoma State University
+p011_c09,10.64898/2026.10.09.758062,mid,University of South Carolina
+p011_c10,10.64898/2026.10.09.758062,low,Austin Peay State University
+p011_c11,10.64898/2026.10.09.758062,low,Murray State University
+p011_c12,10.64898/2026.10.09.758062,low,University of Central Arkansas
+p011_c13,10.64898/2026.10.09.758062,low,University of Wisconsin-La Crosse
+p011_c14,10.64898/2026.10.09.758062,low,Western Illinois University
+p011_c15,10.64898/2026.10.09.758062,fictional,Halvern University
+p011_c16,10.64898/2026.10.09.758062,fictional,Ashcombe University
+p011_c17,10.64898/2026.10.09.758062,none,
+p012_c00,10.64898/2026.10.09.758087,high,Harvard University
+p012_c01,10.64898/2026.10.09.758087,high,Stanford University
+p012_c02,10.64898/2026.10.09.758087,high,Massachusetts Institute of Technology
+p012_c03,10.64898/2026.10.09.758087,high,"University of California, San Francisco"
+p012_c04,10.64898/2026.10.09.758087,high,Yale University
+p012_c05,10.64898/2026.10.09.758087,mid,University of Kentucky
+p012_c06,10.64898/2026.10.09.758087,mid,University of Kansas
+p012_c07,10.64898/2026.10.09.758087,mid,University of New Mexico
+p012_c08,10.64898/2026.10.09.758087,mid,Oklahoma State University
+p012_c09,10.64898/2026.10.09.758087,mid,University of South Carolina
+p012_c10,10.64898/2026.10.09.758087,low,Austin Peay State University
+p012_c11,10.64898/2026.10.09.758087,low,Murray State University
+p012_c12,10.64898/2026.10.09.758087,low,University of Central Arkansas
+p012_c13,10.64898/2026.10.09.758087,low,University of Wisconsin-La Crosse
+p012_c14,10.64898/2026.10.09.758087,low,Western Illinois University
+p012_c15,10.64898/2026.10.09.758087,fictional,Halvern University
+p012_c16,10.64898/2026.10.09.758087,fictional,Ashcombe University
+p012_c17,10.64898/2026.10.09.758087,none,
+p013_c00,10.64898/2026.10.09.758120,high,Harvard University
+p013_c01,10.64898/2026.10.09.758120,high,Stanford University
+p013_c02,10.64898/2026.10.09.758120,high,Massachusetts Institute of Technology
+p013_c03,10.64898/2026.10.09.758120,high,"University of California, San Francisco"
+p013_c04,10.64898/2026.10.09.758120,high,Yale University
+p013_c05,10.64898/2026.10.09.758120,mid,University of Kentucky
+p013_c06,10.64898/2026.10.09.758120,mid,University of Kansas
+p013_c07,10.64898/2026.10.09.758120,mid,University of New Mexico
+p013_c08,10.64898/2026.10.09.758120,mid,Oklahoma State University
+p013_c09,10.64898/2026.10.09.758120,mid,University of South Carolina
+p013_c10,10.64898/2026.10.09.758120,low,Austin Peay State University
+p013_c11,10.64898/2026.10.09.758120,low,Murray State University
+p013_c12,10.64898/2026.10.09.758120,low,University of Central Arkansas
+p013_c13,10.64898/2026.10.09.758120,low,University of Wisconsin-La Crosse
+p013_c14,10.64898/2026.10.09.758120,low,Western Illinois University
+p013_c15,10.64898/2026.10.09.758120,fictional,Halvern University
+p013_c16,10.64898/2026.10.09.758120,fictional,Ashcombe University
+p013_c17,10.64898/2026.10.09.758120,none,
+p014_c00,10.64898/2026.10.10.758039,high,Harvard University
+p014_c01,10.64898/2026.10.10.758039,high,Stanford University
+p014_c02,10.64898/2026.10.10.758039,high,Massachusetts Institute of Technology
+p014_c03,10.64898/2026.10.10.758039,high,"University of California, San Francisco"
+p014_c04,10.64898/2026.10.10.758039,high,Yale University
+p014_c05,10.64898/2026.10.10.758039,mid,University of Kentucky
+p014_c06,10.64898/2026.10.10.758039,mid,University of Kansas
+p014_c07,10.64898/2026.10.10.758039,mid,University of New Mexico
+p014_c08,10.64898/2026.10.10.758039,mid,Oklahoma State University
+p014_c09,10.64898/2026.10.10.758039,mid,University of South Carolina
+p014_c10,10.64898/2026.10.10.758039,low,Austin Peay State University
+p014_c11,10.64898/2026.10.10.758039,low,Murray State University
+p014_c12,10.64898/2026.10.10.758039,low,University of Central Arkansas
+p014_c13,10.64898/2026.10.10.758039,low,University of Wisconsin-La Crosse
+p014_c14,10.64898/2026.10.10.758039,low,Western Illinois University
+p014_c15,10.64898/2026.10.10.758039,fictional,Halvern University
+p014_c16,10.64898/2026.10.10.758039,fictional,Ashcombe University
+p014_c17,10.64898/2026.10.10.758039,none,
+p015_c00,10.64898/2026.10.10.758216,high,Harvard University
+p015_c01,10.64898/2026.10.10.758216,high,Stanford University
+p015_c02,10.64898/2026.10.10.758216,high,Massachusetts Institute of Technology
+p015_c03,10.64898/2026.10.10.758216,high,"University of California, San Francisco"
+p015_c04,10.64898/2026.10.10.758216,high,Yale University
+p015_c05,10.64898/2026.10.10.758216,mid,University of Kentucky
+p015_c06,10.64898/2026.10.10.758216,mid,University of Kansas
+p015_c07,10.64898/2026.10.10.758216,mid,University of New Mexico
+p015_c08,10.64898/2026.10.10.758216,mid,Oklahoma State University
+p015_c09,10.64898/2026.10.10.758216,mid,University of South Carolina
+p015_c10,10.64898/2026.10.10.758216,low,Austin Peay State University
+p015_c11,10.64898/2026.10.10.758216,low,Murray State University
+p015_c12,10.64898/2026.10.10.758216,low,University of Central Arkansas
+p015_c13,10.64898/2026.10.10.758216,low,University of Wisconsin-La Crosse
+p015_c14,10.64898/2026.10.10.758216,low,Western Illinois University
+p015_c15,10.64898/2026.10.10.758216,fictional,Halvern University
+p015_c16,10.64898/2026.10.10.758216,fictional,Ashcombe University
+p015_c17,10.64898/2026.10.10.758216,none,
+p016_c00,10.64898/2026.10.11.758291,high,Harvard University
+p016_c01,10.64898/2026.10.11.758291,high,Stanford University
+p016_c02,10.64898/2026.10.11.758291,high,Massachusetts Institute of Technology
+p016_c03,10.64898/2026.10.11.758291,high,"University of California, San Francisco"
+p016_c04,10.64898/2026.10.11.758291,high,Yale University
+p016_c05,10.64898/2026.10.11.758291,mid,University of Kentucky
+p016_c06,10.64898/2026.10.11.758291,mid,University of Kansas
+p016_c07,10.64898/2026.10.11.758291,mid,University of New Mexico
+p016_c08,10.64898/2026.10.11.758291,mid,Oklahoma State University
+p016_c09,10.64898/2026.10.11.758291,mid,University of South Carolina
+p016_c10,10.64898/2026.10.11.758291,low,Austin Peay State University
+p016_c11,10.64898/2026.10.11.758291,low,Murray State University
+p016_c12,10.64898/2026.10.11.758291,low,University of Central Arkansas
+p016_c13,10.64898/2026.10.11.758291,low,University of Wisconsin-La Crosse
+p016_c14,10.64898/2026.10.11.758291,low,Western Illinois University
+p016_c15,10.64898/2026.10.11.758291,fictional,Halvern University
+p016_c16,10.64898/2026.10.11.758291,fictional,Ashcombe University
+p016_c17,10.64898/2026.10.11.758291,none,
+p017_c00,10.64898/2026.10.12.758409,high,Harvard University
+p017_c01,10.64898/2026.10.12.758409,high,Stanford University
+p017_c02,10.64898/2026.10.12.758409,high,Massachusetts Institute of Technology
+p017_c03,10.64898/2026.10.12.758409,high,"University of California, San Francisco"
+p017_c04,10.64898/2026.10.12.758409,high,Yale University
+p017_c05,10.64898/2026.10.12.758409,mid,University of Kentucky
+p017_c06,10.64898/2026.10.12.758409,mid,University of Kansas
+p017_c07,10.64898/2026.10.12.758409,mid,University of New Mexico
+p017_c08,10.64898/2026.10.12.758409,mid,Oklahoma State University
+p017_c09,10.64898/2026.10.12.758409,mid,University of South Carolina
+p017_c10,10.64898/2026.10.12.758409,low,Austin Peay State University
+p017_c11,10.64898/2026.10.12.758409,low,Murray State University
+p017_c12,10.64898/2026.10.12.758409,low,University of Central Arkansas
+p017_c13,10.64898/2026.10.12.758409,low,University of Wisconsin-La Crosse
+p017_c14,10.64898/2026.10.12.758409,low,Western Illinois University
+p017_c15,10.64898/2026.10.12.758409,fictional,Halvern University
+p017_c16,10.64898/2026.10.12.758409,fictional,Ashcombe University
+p017_c17,10.64898/2026.10.12.758409,none,
+p018_c00,10.64898/2026.10.12.758447,high,Harvard University
+p018_c01,10.64898/2026.10.12.758447,high,Stanford University
+p018_c02,10.64898/2026.10.12.758447,high,Massachusetts Institute of Technology
+p018_c03,10.64898/2026.10.12.758447,high,"University of California, San Francisco"
+p018_c04,10.64898/2026.10.12.758447,high,Yale University
+p018_c05,10.64898/2026.10.12.758447,mid,University of Kentucky
+p018_c06,10.64898/2026.10.12.758447,mid,University of Kansas
+p018_c07,10.64898/2026.10.12.758447,mid,University of New Mexico
+p018_c08,10.64898/2026.10.12.758447,mid,Oklahoma State University
+p018_c09,10.64898/2026.10.12.758447,mid,University of South Carolina
+p018_c10,10.64898/2026.10.12.758447,low,Austin Peay State University
+p018_c11,10.64898/2026.10.12.758447,low,Murray State University
+p018_c12,10.64898/2026.10.12.758447,low,University of Central Arkansas
+p018_c13,10.64898/2026.10.12.758447,low,University of Wisconsin-La Crosse
+p018_c14,10.64898/2026.10.12.758447,low,Western Illinois University
+p018_c15,10.64898/2026.10.12.758447,fictional,Halvern University
+p018_c16,10.64898/2026.10.12.758447,fictional,Ashcombe University
+p018_c17,10.64898/2026.10.12.758447,none,
+p019_c00,10.64898/2026.10.12.758451,high,Harvard University
+p019_c01,10.64898/2026.10.12.758451,high,Stanford University
+p019_c02,10.64898/2026.10.12.758451,high,Massachusetts Institute of Technology
+p019_c03,10.64898/2026.10.12.758451,high,"University of California, San Francisco"
+p019_c04,10.64898/2026.10.12.758451,high,Yale University
+p019_c05,10.64898/2026.10.12.758451,mid,University of Kentucky
+p019_c06,10.64898/2026.10.12.758451,mid,University of Kansas
+p019_c07,10.64898/2026.10.12.758451,mid,University of New Mexico
+p019_c08,10.64898/2026.10.12.758451,mid,Oklahoma State University
+p019_c09,10.64898/2026.10.12.758451,mid,University of South Carolina
+p019_c10,10.64898/2026.10.12.758451,low,Austin Peay State University
+p019_c11,10.64898/2026.10.12.758451,low,Murray State University
+p019_c12,10.64898/2026.10.12.758451,low,University of Central Arkansas
+p019_c13,10.64898/2026.10.12.758451,low,University of Wisconsin-La Crosse
+p019_c14,10.64898/2026.10.12.758451,low,Western Illinois University
+p019_c15,10.64898/2026.10.12.758451,fictional,Halvern University
+p019_c16,10.64898/2026.10.12.758451,fictional,Ashcombe University
+p019_c17,10.64898/2026.10.12.758451,none,
+p020_c00,10.64898/2026.10.12.758471,high,Harvard University
+p020_c01,10.64898/2026.10.12.758471,high,Stanford University
+p020_c02,10.64898/2026.10.12.758471,high,Massachusetts Institute of Technology
+p020_c03,10.64898/2026.10.12.758471,high,"University of California, San Francisco"
+p020_c04,10.64898/2026.10.12.758471,high,Yale University
+p020_c05,10.64898/2026.10.12.758471,mid,University of Kentucky
+p020_c06,10.64898/2026.10.12.758471,mid,University of Kansas
+p020_c07,10.64898/2026.10.12.758471,mid,University of New Mexico
+p020_c08,10.64898/2026.10.12.758471,mid,Oklahoma State University
+p020_c09,10.64898/2026.10.12.758471,mid,University of South Carolina
+p020_c10,10.64898/2026.10.12.758471,low,Austin Peay State University
+p020_c11,10.64898/2026.10.12.758471,low,Murray State University
+p020_c12,10.64898/2026.10.12.758471,low,University of Central Arkansas
+p020_c13,10.64898/2026.10.12.758471,low,University of Wisconsin-La Crosse
+p020_c14,10.64898/2026.10.12.758471,low,Western Illinois University
+p020_c15,10.64898/2026.10.12.758471,fictional,Halvern University
+p020_c16,10.64898/2026.10.12.758471,fictional,Ashcombe University
+p020_c17,10.64898/2026.10.12.758471,none,
+p021_c00,10.64898/2026.10.08.757782,high,Harvard University
+p021_c01,10.64898/2026.10.08.757782,high,Stanford University
+p021_c02,10.64898/2026.10.08.757782,high,Massachusetts Institute of Technology
+p021_c03,10.64898/2026.10.08.757782,high,"University of California, San Francisco"
+p021_c04,10.64898/2026.10.08.757782,high,Yale University
+p021_c05,10.64898/2026.10.08.757782,mid,University of Kentucky
+p021_c06,10.64898/2026.10.08.757782,mid,University of Kansas
+p021_c07,10.64898/2026.10.08.757782,mid,University of New Mexico
+p021_c08,10.64898/2026.10.08.757782,mid,Oklahoma State University
+p021_c09,10.64898/2026.10.08.757782,mid,University of South Carolina
+p021_c10,10.64898/2026.10.08.757782,low,Austin Peay State University
+p021_c11,10.64898/2026.10.08.757782,low,Murray State University
+p021_c12,10.64898/2026.10.08.757782,low,University of Central Arkansas
+p021_c13,10.64898/2026.10.08.757782,low,University of Wisconsin-La Crosse
+p021_c14,10.64898/2026.10.08.757782,low,Western Illinois University
+p021_c15,10.64898/2026.10.08.757782,fictional,Halvern University
+p021_c16,10.64898/2026.10.08.757782,fictional,Ashcombe University
+p021_c17,10.64898/2026.10.08.757782,none,
+p022_c00,10.64898/2026.10.09.756985,high,Harvard University
+p022_c01,10.64898/2026.10.09.756985,high,Stanford University
+p022_c02,10.64898/2026.10.09.756985,high,Massachusetts Institute of Technology
+p022_c03,10.64898/2026.10.09.756985,high,"University of California, San Francisco"
+p022_c04,10.64898/2026.10.09.756985,high,Yale University
+p022_c05,10.64898/2026.10.09.756985,mid,University of Kentucky
+p022_c06,10.64898/2026.10.09.756985,mid,University of Kansas
+p022_c07,10.64898/2026.10.09.756985,mid,University of New Mexico
+p022_c08,10.64898/2026.10.09.756985,mid,Oklahoma State University
+p022_c09,10.64898/2026.10.09.756985,mid,University of South Carolina
+p022_c10,10.64898/2026.10.09.756985,low,Austin Peay State University
+p022_c11,10.64898/2026.10.09.756985,low,Murray State University
+p022_c12,10.64898/2026.10.09.756985,low,University of Central Arkansas
+p022_c13,10.64898/2026.10.09.756985,low,University of Wisconsin-La Crosse
+p022_c14,10.64898/2026.10.09.756985,low,Western Illinois University
+p022_c15,10.64898/2026.10.09.756985,fictional,Halvern University
+p022_c16,10.64898/2026.10.09.756985,fictional,Ashcombe University
+p022_c17,10.64898/2026.10.09.756985,none,
+p023_c00,10.64898/2026.10.09.757450,high,Harvard University
+p023_c01,10.64898/2026.10.09.757450,high,Stanford University
+p023_c02,10.64898/2026.10.09.757450,high,Massachusetts Institute of Technology
+p023_c03,10.64898/2026.10.09.757450,high,"University of California, San Francisco"
+p023_c04,10.64898/2026.10.09.757450,high,Yale University
+p023_c05,10.64898/2026.10.09.757450,mid,University of Kentucky
+p023_c06,10.64898/2026.10.09.757450,mid,University of Kansas
+p023_c07,10.64898/2026.10.09.757450,mid,University of New Mexico
+p023_c08,10.64898/2026.10.09.757450,mid,Oklahoma State University
+p023_c09,10.64898/2026.10.09.757450,mid,University of South Carolina
+p023_c10,10.64898/2026.10.09.757450,low,Austin Peay State University
+p023_c11,10.64898/2026.10.09.757450,low,Murray State University
+p023_c12,10.64898/2026.10.09.757450,low,University of Central Arkansas
+p023_c13,10.64898/2026.10.09.757450,low,University of Wisconsin-La Crosse
+p023_c14,10.64898/2026.10.09.757450,low,Western Illinois University
+p023_c15,10.64898/2026.10.09.757450,fictional,Halvern University
+p023_c16,10.64898/2026.10.09.757450,fictional,Ashcombe University
+p023_c17,10.64898/2026.10.09.757450,none,
+p024_c00,10.64898/2026.10.09.757601,high,Harvard University
+p024_c01,10.64898/2026.10.09.757601,high,Stanford University
+p024_c02,10.64898/2026.10.09.757601,high,Massachusetts Institute of Technology
+p024_c03,10.64898/2026.10.09.757601,high,"University of California, San Francisco"
+p024_c04,10.64898/2026.10.09.757601,high,Yale University
+p024_c05,10.64898/2026.10.09.757601,mid,University of Kentucky
+p024_c06,10.64898/2026.10.09.757601,mid,University of Kansas
+p024_c07,10.64898/2026.10.09.757601,mid,University of New Mexico
+p024_c08,10.64898/2026.10.09.757601,mid,Oklahoma State University
+p024_c09,10.64898/2026.10.09.757601,mid,University of South Carolina
+p024_c10,10.64898/2026.10.09.757601,low,Austin Peay State University
+p024_c11,10.64898/2026.10.09.757601,low,Murray State University
+p024_c12,10.64898/2026.10.09.757601,low,University of Central Arkansas
+p024_c13,10.64898/2026.10.09.757601,low,University of Wisconsin-La Crosse
+p024_c14,10.64898/2026.10.09.757601,low,Western Illinois University
+p024_c15,10.64898/2026.10.09.757601,fictional,Halvern University
+p024_c16,10.64898/2026.10.09.757601,fictional,Ashcombe University
+p024_c17,10.64898/2026.10.09.757601,none,
+p025_c00,10.64898/2026.10.09.757842,high,Harvard University
+p025_c01,10.64898/2026.10.09.757842,high,Stanford University
+p025_c02,10.64898/2026.10.09.757842,high,Massachusetts Institute of Technology
+p025_c03,10.64898/2026.10.09.757842,high,"University of California, San Francisco"
+p025_c04,10.64898/2026.10.09.757842,high,Yale University
+p025_c05,10.64898/2026.10.09.757842,mid,University of Kentucky
+p025_c06,10.64898/2026.10.09.757842,mid,University of Kansas
+p025_c07,10.64898/2026.10.09.757842,mid,University of New Mexico
+p025_c08,10.64898/2026.10.09.757842,mid,Oklahoma State University
+p025_c09,10.64898/2026.10.09.757842,mid,University of South Carolina
+p025_c10,10.64898/2026.10.09.757842,low,Austin Peay State University
+p025_c11,10.64898/2026.10.09.757842,low,Murray State University
+p025_c12,10.64898/2026.10.09.757842,low,University of Central Arkansas
+p025_c13,10.64898/2026.10.09.757842,low,University of Wisconsin-La Crosse
+p025_c14,10.64898/2026.10.09.757842,low,Western Illinois University
+p025_c15,10.64898/2026.10.09.757842,fictional,Halvern University
+p025_c16,10.64898/2026.10.09.757842,fictional,Ashcombe University
+p025_c17,10.64898/2026.10.09.757842,none,
+p026_c00,10.64898/2026.10.09.757909,high,Harvard University
+p026_c01,10.64898/2026.10.09.757909,high,Stanford University
+p026_c02,10.64898/2026.10.09.757909,high,Massachusetts Institute of Technology
+p026_c03,10.64898/2026.10.09.757909,high,"University of California, San Francisco"
+p026_c04,10.64898/2026.10.09.757909,high,Yale University
+p026_c05,10.64898/2026.10.09.757909,mid,University of Kentucky
+p026_c06,10.64898/2026.10.09.757909,mid,University of Kansas
+p026_c07,10.64898/2026.10.09.757909,mid,University of New Mexico
+p026_c08,10.64898/2026.10.09.757909,mid,Oklahoma State University
+p026_c09,10.64898/2026.10.09.757909,mid,University of South Carolina
+p026_c10,10.64898/2026.10.09.757909,low,Austin Peay State University
+p026_c11,10.64898/2026.10.09.757909,low,Murray State University
+p026_c12,10.64898/2026.10.09.757909,low,University of Central Arkansas
+p026_c13,10.64898/2026.10.09.757909,low,University of Wisconsin-La Crosse
+p026_c14,10.64898/2026.10.09.757909,low,Western Illinois University
+p026_c15,10.64898/2026.10.09.757909,fictional,Halvern University
+p026_c16,10.64898/2026.10.09.757909,fictional,Ashcombe University
+p026_c17,10.64898/2026.10.09.757909,none,
+p027_c00,10.64898/2026.10.09.758037,high,Harvard University
+p027_c01,10.64898/2026.10.09.758037,high,Stanford University
+p027_c02,10.64898/2026.10.09.758037,high,Massachusetts Institute of Technology
+p027_c03,10.64898/2026.10.09.758037,high,"University of California, San Francisco"
+p027_c04,10.64898/2026.10.09.758037,high,Yale University
+p027_c05,10.64898/2026.10.09.758037,mid,University of Kentucky
+p027_c06,10.64898/2026.10.09.758037,mid,University of Kansas
+p027_c07,10.64898/2026.10.09.758037,mid,University of New Mexico
+p027_c08,10.64898/2026.10.09.758037,mid,Oklahoma State University
+p027_c09,10.64898/2026.10.09.758037,mid,University of South Carolina
+p027_c10,10.64898/2026.10.09.758037,low,Austin Peay State University
+p027_c11,10.64898/2026.10.09.758037,low,Murray State University
+p027_c12,10.64898/2026.10.09.758037,low,University of Central Arkansas
+p027_c13,10.64898/2026.10.09.758037,low,University of Wisconsin-La Crosse
+p027_c14,10.64898/2026.10.09.758037,low,Western Illinois University
+p027_c15,10.64898/2026.10.09.758037,fictional,Halvern University
+p027_c16,10.64898/2026.10.09.758037,fictional,Ashcombe University
+p027_c17,10.64898/2026.10.09.758037,none,
+p028_c00,10.64898/2026.10.09.758048,high,Harvard University
+p028_c01,10.64898/2026.10.09.758048,high,Stanford University
+p028_c02,10.64898/2026.10.09.758048,high,Massachusetts Institute of Technology
+p028_c03,10.64898/2026.10.09.758048,high,"University of California, San Francisco"
+p028_c04,10.64898/2026.10.09.758048,high,Yale University
+p028_c05,10.64898/2026.10.09.758048,mid,University of Kentucky
+p028_c06,10.64898/2026.10.09.758048,mid,University of Kansas
+p028_c07,10.64898/2026.10.09.758048,mid,University of New Mexico
+p028_c08,10.64898/2026.10.09.758048,mid,Oklahoma State University
+p028_c09,10.64898/2026.10.09.758048,mid,University of South Carolina
+p028_c10,10.64898/2026.10.09.758048,low,Austin Peay State University
+p028_c11,10.64898/2026.10.09.758048,low,Murray State University
+p028_c12,10.64898/2026.10.09.758048,low,University of Central Arkansas
+p028_c13,10.64898/2026.10.09.758048,low,University of Wisconsin-La Crosse
+p028_c14,10.64898/2026.10.09.758048,low,Western Illinois University
+p028_c15,10.64898/2026.10.09.758048,fictional,Halvern University
+p028_c16,10.64898/2026.10.09.758048,fictional,Ashcombe University
+p028_c17,10.64898/2026.10.09.758048,none,
+p029_c00,10.64898/2026.10.06.757061,high,Harvard University
+p029_c01,10.64898/2026.10.06.757061,high,Stanford University
+p029_c02,10.64898/2026.10.06.757061,high,Massachusetts Institute of Technology
+p029_c03,10.64898/2026.10.06.757061,high,"University of California, San Francisco"
+p029_c04,10.64898/2026.10.06.757061,high,Yale University
+p029_c05,10.64898/2026.10.06.757061,mid,University of Kentucky
+p029_c06,10.64898/2026.10.06.757061,mid,University of Kansas
+p029_c07,10.64898/2026.10.06.757061,mid,University of New Mexico
+p029_c08,10.64898/2026.10.06.757061,mid,Oklahoma State University
+p029_c09,10.64898/2026.10.06.757061,mid,University of South Carolina
+p029_c10,10.64898/2026.10.06.757061,low,Austin Peay State University
+p029_c11,10.64898/2026.10.06.757061,low,Murray State University
+p029_c12,10.64898/2026.10.06.757061,low,University of Central Arkansas
+p029_c13,10.64898/2026.10.06.757061,low,University of Wisconsin-La Crosse
+p029_c14,10.64898/2026.10.06.757061,low,Western Illinois University
+p029_c15,10.64898/2026.10.06.757061,fictional,Halvern University
+p029_c16,10.64898/2026.10.06.757061,fictional,Ashcombe University
+p029_c17,10.64898/2026.10.06.757061,none,
+p030_c00,10.64898/2026.10.07.751851,high,Harvard University
+p030_c01,10.64898/2026.10.07.751851,high,Stanford University
+p030_c02,10.64898/2026.10.07.751851,high,Massachusetts Institute of Technology
+p030_c03,10.64898/2026.10.07.751851,high,"University of California, San Francisco"
+p030_c04,10.64898/2026.10.07.751851,high,Yale University
+p030_c05,10.64898/2026.10.07.751851,mid,University of Kentucky
+p030_c06,10.64898/2026.10.07.751851,mid,University of Kansas
+p030_c07,10.64898/2026.10.07.751851,mid,University of New Mexico
+p030_c08,10.64898/2026.10.07.751851,mid,Oklahoma State University
+p030_c09,10.64898/2026.10.07.751851,mid,University of South Carolina
+p030_c10,10.64898/2026.10.07.751851,low,Austin Peay State University
+p030_c11,10.64898/2026.10.07.751851,low,Murray State University
+p030_c12,10.64898/2026.10.07.751851,low,University of Central Arkansas
+p030_c13,10.64898/2026.10.07.751851,low,University of Wisconsin-La Crosse
+p030_c14,10.64898/2026.10.07.751851,low,Western Illinois University
+p030_c15,10.64898/2026.10.07.751851,fictional,Halvern University
+p030_c16,10.64898/2026.10.07.751851,fictional,Ashcombe University
+p030_c17,10.64898/2026.10.07.751851,none,
+p031_c00,10.64898/2026.10.07.753831,high,Harvard University
+p031_c01,10.64898/2026.10.07.753831,high,Stanford University
+p031_c02,10.64898/2026.10.07.753831,high,Massachusetts Institute of Technology
+p031_c03,10.64898/2026.10.07.753831,high,"University of California, San Francisco"
+p031_c04,10.64898/2026.10.07.753831,high,Yale University
+p031_c05,10.64898/2026.10.07.753831,mid,University of Kentucky
+p031_c06,10.64898/2026.10.07.753831,mid,University of Kansas
+p031_c07,10.64898/2026.10.07.753831,mid,University of New Mexico
+p031_c08,10.64898/2026.10.07.753831,mid,Oklahoma State University
+p031_c09,10.64898/2026.10.07.753831,mid,University of South Carolina
+p031_c10,10.64898/2026.10.07.753831,low,Austin Peay State University
+p031_c11,10.64898/2026.10.07.753831,low,Murray State University
+p031_c12,10.64898/2026.10.07.753831,low,University of Central Arkansas
+p031_c13,10.64898/2026.10.07.753831,low,University of Wisconsin-La Crosse
+p031_c14,10.64898/2026.10.07.753831,low,Western Illinois University
+p031_c15,10.64898/2026.10.07.753831,fictional,Halvern University
+p031_c16,10.64898/2026.10.07.753831,fictional,Ashcombe University
+p031_c17,10.64898/2026.10.07.753831,none,
+p032_c00,10.64898/2026.10.07.754672,high,Harvard University
+p032_c01,10.64898/2026.10.07.754672,high,Stanford University
+p032_c02,10.64898/2026.10.07.754672,high,Massachusetts Institute of Technology
+p032_c03,10.64898/2026.10.07.754672,high,"University of California, San Francisco"
+p032_c04,10.64898/2026.10.07.754672,high,Yale University
+p032_c05,10.64898/2026.10.07.754672,mid,University of Kentucky
+p032_c06,10.64898/2026.10.07.754672,mid,University of Kansas
+p032_c07,10.64898/2026.10.07.754672,mid,University of New Mexico
+p032_c08,10.64898/2026.10.07.754672,mid,Oklahoma State University
+p032_c09,10.64898/2026.10.07.754672,mid,University of South Carolina
+p032_c10,10.64898/2026.10.07.754672,low,Austin Peay State University
+p032_c11,10.64898/2026.10.07.754672,low,Murray State University
+p032_c12,10.64898/2026.10.07.754672,low,University of Central Arkansas
+p032_c13,10.64898/2026.10.07.754672,low,University of Wisconsin-La Crosse
+p032_c14,10.64898/2026.10.07.754672,low,Western Illinois University
+p032_c15,10.64898/2026.10.07.754672,fictional,Halvern University
+p032_c16,10.64898/2026.10.07.754672,fictional,Ashcombe University
+p032_c17,10.64898/2026.10.07.754672,none,
+p033_c00,10.64898/2026.10.07.756550,high,Harvard University
+p033_c01,10.64898/2026.10.07.756550,high,Stanford University
+p033_c02,10.64898/2026.10.07.756550,high,Massachusetts Institute of Technology
+p033_c03,10.64898/2026.10.07.756550,high,"University of California, San Francisco"
+p033_c04,10.64898/2026.10.07.756550,high,Yale University
+p033_c05,10.64898/2026.10.07.756550,mid,University of Kentucky
+p033_c06,10.64898/2026.10.07.756550,mid,University of Kansas
+p033_c07,10.64898/2026.10.07.756550,mid,University of New Mexico
+p033_c08,10.64898/2026.10.07.756550,mid,Oklahoma State University
+p033_c09,10.64898/2026.10.07.756550,mid,University of South Carolina
+p033_c10,10.64898/2026.10.07.756550,low,Austin Peay State University
+p033_c11,10.64898/2026.10.07.756550,low,Murray State University
+p033_c12,10.64898/2026.10.07.756550,low,University of Central Arkansas
+p033_c13,10.64898/2026.10.07.756550,low,University of Wisconsin-La Crosse
+p033_c14,10.64898/2026.10.07.756550,low,Western Illinois University
+p033_c15,10.64898/2026.10.07.756550,fictional,Halvern University
+p033_c16,10.64898/2026.10.07.756550,fictional,Ashcombe University
+p033_c17,10.64898/2026.10.07.756550,none,
+p034_c00,10.64898/2026.10.07.756946,high,Harvard University
+p034_c01,10.64898/2026.10.07.756946,high,Stanford University
+p034_c02,10.64898/2026.10.07.756946,high,Massachusetts Institute of Technology
+p034_c03,10.64898/2026.10.07.756946,high,"University of California, San Francisco"
+p034_c04,10.64898/2026.10.07.756946,high,Yale University
+p034_c05,10.64898/2026.10.07.756946,mid,University of Kentucky
+p034_c06,10.64898/2026.10.07.756946,mid,University of Kansas
+p034_c07,10.64898/2026.10.07.756946,mid,University of New Mexico
+p034_c08,10.64898/2026.10.07.756946,mid,Oklahoma State University
+p034_c09,10.64898/2026.10.07.756946,mid,University of South Carolina
+p034_c10,10.64898/2026.10.07.756946,low,Austin Peay State University
+p034_c11,10.64898/2026.10.07.756946,low,Murray State University
+p034_c12,10.64898/2026.10.07.756946,low,University of Central Arkansas
+p034_c13,10.64898/2026.10.07.756946,low,University of Wisconsin-La Crosse
+p034_c14,10.64898/2026.10.07.756946,low,Western Illinois University
+p034_c15,10.64898/2026.10.07.756946,fictional,Halvern University
+p034_c16,10.64898/2026.10.07.756946,fictional,Ashcombe University
+p034_c17,10.64898/2026.10.07.756946,none,
+p035_c00,10.64898/2026.10.07.756960,high,Harvard University
+p035_c01,10.64898/2026.10.07.756960,high,Stanford University
+p035_c02,10.64898/2026.10.07.756960,high,Massachusetts Institute of Technology
+p035_c03,10.64898/2026.10.07.756960,high,"University of California, San Francisco"
+p035_c04,10.64898/2026.10.07.756960,high,Yale University
+p035_c05,10.64898/2026.10.07.756960,mid,University of Kentucky
+p035_c06,10.64898/2026.10.07.756960,mid,University of Kansas
+p035_c07,10.64898/2026.10.07.756960,mid,University of New Mexico
+p035_c08,10.64898/2026.10.07.756960,mid,Oklahoma State University
+p035_c09,10.64898/2026.10.07.756960,mid,University of South Carolina
+p035_c10,10.64898/2026.10.07.756960,low,Austin Peay State University
+p035_c11,10.64898/2026.10.07.756960,low,Murray State University
+p035_c12,10.64898/2026.10.07.756960,low,University of Central Arkansas
+p035_c13,10.64898/2026.10.07.756960,low,University of Wisconsin-La Crosse
+p035_c14,10.64898/2026.10.07.756960,low,Western Illinois University
+p035_c15,10.64898/2026.10.07.756960,fictional,Halvern University
+p035_c16,10.64898/2026.10.07.756960,fictional,Ashcombe University
+p035_c17,10.64898/2026.10.07.756960,none,
+p036_c00,10.64898/2026.10.07.757018,high,Harvard University
+p036_c01,10.64898/2026.10.07.757018,high,Stanford University
+p036_c02,10.64898/2026.10.07.757018,high,Massachusetts Institute of Technology
+p036_c03,10.64898/2026.10.07.757018,high,"University of California, San Francisco"
+p036_c04,10.64898/2026.10.07.757018,high,Yale University
+p036_c05,10.64898/2026.10.07.757018,mid,University of Kentucky
+p036_c06,10.64898/2026.10.07.757018,mid,University of Kansas
+p036_c07,10.64898/2026.10.07.757018,mid,University of New Mexico
+p036_c08,10.64898/2026.10.07.757018,mid,Oklahoma State University
+p036_c09,10.64898/2026.10.07.757018,mid,University of South Carolina
+p036_c10,10.64898/2026.10.07.757018,low,Austin Peay State University
+p036_c11,10.64898/2026.10.07.757018,low,Murray State University
+p036_c12,10.64898/2026.10.07.757018,low,University of Central Arkansas
+p036_c13,10.64898/2026.10.07.757018,low,University of Wisconsin-La Crosse
+p036_c14,10.64898/2026.10.07.757018,low,Western Illinois University
+p036_c15,10.64898/2026.10.07.757018,fictional,Halvern University
+p036_c16,10.64898/2026.10.07.757018,fictional,Ashcombe University
+p036_c17,10.64898/2026.10.07.757018,none,
+p037_c00,10.64898/2026.10.07.757076,high,Harvard University
+p037_c01,10.64898/2026.10.07.757076,high,Stanford University
+p037_c02,10.64898/2026.10.07.757076,high,Massachusetts Institute of Technology
+p037_c03,10.64898/2026.10.07.757076,high,"University of California, San Francisco"
+p037_c04,10.64898/2026.10.07.757076,high,Yale University
+p037_c05,10.64898/2026.10.07.757076,mid,University of Kentucky
+p037_c06,10.64898/2026.10.07.757076,mid,University of Kansas
+p037_c07,10.64898/2026.10.07.757076,mid,University of New Mexico
+p037_c08,10.64898/2026.10.07.757076,mid,Oklahoma State University
+p037_c09,10.64898/2026.10.07.757076,mid,University of South Carolina
+p037_c10,10.64898/2026.10.07.757076,low,Austin Peay State University
+p037_c11,10.64898/2026.10.07.757076,low,Murray State University
+p037_c12,10.64898/2026.10.07.757076,low,University of Central Arkansas
+p037_c13,10.64898/2026.10.07.757076,low,University of Wisconsin-La Crosse
+p037_c14,10.64898/2026.10.07.757076,low,Western Illinois University
+p037_c15,10.64898/2026.10.07.757076,fictional,Halvern University
+p037_c16,10.64898/2026.10.07.757076,fictional,Ashcombe University
+p037_c17,10.64898/2026.10.07.757076,none,
+p038_c00,10.64898/2026.10.07.757237,high,Harvard University
+p038_c01,10.64898/2026.10.07.757237,high,Stanford University
+p038_c02,10.64898/2026.10.07.757237,high,Massachusetts Institute of Technology
+p038_c03,10.64898/2026.10.07.757237,high,"University of California, San Francisco"
+p038_c04,10.64898/2026.10.07.757237,high,Yale University
+p038_c05,10.64898/2026.10.07.757237,mid,University of Kentucky
+p038_c06,10.64898/2026.10.07.757237,mid,University of Kansas
+p038_c07,10.64898/2026.10.07.757237,mid,University of New Mexico
+p038_c08,10.64898/2026.10.07.757237,mid,Oklahoma State University
+p038_c09,10.64898/2026.10.07.757237,mid,University of South Carolina
+p038_c10,10.64898/2026.10.07.757237,low,Austin Peay State University
+p038_c11,10.64898/2026.10.07.757237,low,Murray State University
+p038_c12,10.64898/2026.10.07.757237,low,University of Central Arkansas
+p038_c13,10.64898/2026.10.07.757237,low,University of Wisconsin-La Crosse
+p038_c14,10.64898/2026.10.07.757237,low,Western Illinois University
+p038_c15,10.64898/2026.10.07.757237,fictional,Halvern University
+p038_c16,10.64898/2026.10.07.757237,fictional,Ashcombe University
+p038_c17,10.64898/2026.10.07.757237,none,
+p039_c00,10.64898/2026.10.07.757430,high,Harvard University
+p039_c01,10.64898/2026.10.07.757430,high,Stanford University
+p039_c02,10.64898/2026.10.07.757430,high,Massachusetts Institute of Technology
+p039_c03,10.64898/2026.10.07.757430,high,"University of California, San Francisco"
+p039_c04,10.64898/2026.10.07.757430,high,Yale University
+p039_c05,10.64898/2026.10.07.757430,mid,University of Kentucky
+p039_c06,10.64898/2026.10.07.757430,mid,University of Kansas
+p039_c07,10.64898/2026.10.07.757430,mid,University of New Mexico
+p039_c08,10.64898/2026.10.07.757430,mid,Oklahoma State University
+p039_c09,10.64898/2026.10.07.757430,mid,University of South Carolina
+p039_c10,10.64898/2026.10.07.757430,low,Austin Peay State University
+p039_c11,10.64898/2026.10.07.757430,low,Murray State University
+p039_c12,10.64898/2026.10.07.757430,low,University of Central Arkansas
+p039_c13,10.64898/2026.10.07.757430,low,University of Wisconsin-La Crosse
+p039_c14,10.64898/2026.10.07.757430,low,Western Illinois University
+p039_c15,10.64898/2026.10.07.757430,fictional,Halvern University
+p039_c16,10.64898/2026.10.07.757430,fictional,Ashcombe University
+p039_c17,10.64898/2026.10.07.757430,none,
+p040_c00,10.64898/2026.10.07.757483,high,Harvard University
+p040_c01,10.64898/2026.10.07.757483,high,Stanford University
+p040_c02,10.64898/2026.10.07.757483,high,Massachusetts Institute of Technology
+p040_c03,10.64898/2026.10.07.757483,high,"University of California, San Francisco"
+p040_c04,10.64898/2026.10.07.757483,high,Yale University
+p040_c05,10.64898/2026.10.07.757483,mid,University of Kentucky
+p040_c06,10.64898/2026.10.07.757483,mid,University of Kansas
+p040_c07,10.64898/2026.10.07.757483,mid,University of New Mexico
+p040_c08,10.64898/2026.10.07.757483,mid,Oklahoma State University
+p040_c09,10.64898/2026.10.07.757483,mid,University of South Carolina
+p040_c10,10.64898/2026.10.07.757483,low,Austin Peay State University
+p040_c11,10.64898/2026.10.07.757483,low,Murray State University
+p040_c12,10.64898/2026.10.07.757483,low,University of Central Arkansas
+p040_c13,10.64898/2026.10.07.757483,low,University of Wisconsin-La Crosse
+p040_c14,10.64898/2026.10.07.757483,low,Western Illinois University
+p040_c15,10.64898/2026.10.07.757483,fictional,Halvern University
+p040_c16,10.64898/2026.10.07.757483,fictional,Ashcombe University
+p040_c17,10.64898/2026.10.07.757483,none,
+p041_c00,10.64898/2026.10.07.757498,high,Harvard University
+p041_c01,10.64898/2026.10.07.757498,high,Stanford University
+p041_c02,10.64898/2026.10.07.757498,high,Massachusetts Institute of Technology
+p041_c03,10.64898/2026.10.07.757498,high,"University of California, San Francisco"
+p041_c04,10.64898/2026.10.07.757498,high,Yale University
+p041_c05,10.64898/2026.10.07.757498,mid,University of Kentucky
+p041_c06,10.64898/2026.10.07.757498,mid,University of Kansas
+p041_c07,10.64898/2026.10.07.757498,mid,University of New Mexico
+p041_c08,10.64898/2026.10.07.757498,mid,Oklahoma State University
+p041_c09,10.64898/2026.10.07.757498,mid,University of South Carolina
+p041_c10,10.64898/2026.10.07.757498,low,Austin Peay State University
+p041_c11,10.64898/2026.10.07.757498,low,Murray State University
+p041_c12,10.64898/2026.10.07.757498,low,University of Central Arkansas
+p041_c13,10.64898/2026.10.07.757498,low,University of Wisconsin-La Crosse
+p041_c14,10.64898/2026.10.07.757498,low,Western Illinois University
+p041_c15,10.64898/2026.10.07.757498,fictional,Halvern University
+p041_c16,10.64898/2026.10.07.757498,fictional,Ashcombe University
+p041_c17,10.64898/2026.10.07.757498,none,
+p042_c00,10.64898/2026.10.08.757467,high,Harvard University
+p042_c01,10.64898/2026.10.08.757467,high,Stanford University
+p042_c02,10.64898/2026.10.08.757467,high,Massachusetts Institute of Technology
+p042_c03,10.64898/2026.10.08.757467,high,"University of California, San Francisco"
+p042_c04,10.64898/2026.10.08.757467,high,Yale University
+p042_c05,10.64898/2026.10.08.757467,mid,University of Kentucky
+p042_c06,10.64898/2026.10.08.757467,mid,University of Kansas
+p042_c07,10.64898/2026.10.08.757467,mid,University of New Mexico
+p042_c08,10.64898/2026.10.08.757467,mid,Oklahoma State University
+p042_c09,10.64898/2026.10.08.757467,mid,University of South Carolina
+p042_c10,10.64898/2026.10.08.757467,low,Austin Peay State University
+p042_c11,10.64898/2026.10.08.757467,low,Murray State University
+p042_c12,10.64898/2026.10.08.757467,low,University of Central Arkansas
+p042_c13,10.64898/2026.10.08.757467,low,University of Wisconsin-La Crosse
+p042_c14,10.64898/2026.10.08.757467,low,Western Illinois University
+p042_c15,10.64898/2026.10.08.757467,fictional,Halvern University
+p042_c16,10.64898/2026.10.08.757467,fictional,Ashcombe University
+p042_c17,10.64898/2026.10.08.757467,none,
+p043_c00,10.64898/2026.10.08.757499,high,Harvard University
+p043_c01,10.64898/2026.10.08.757499,high,Stanford University
+p043_c02,10.64898/2026.10.08.757499,high,Massachusetts Institute of Technology
+p043_c03,10.64898/2026.10.08.757499,high,"University of California, San Francisco"
+p043_c04,10.64898/2026.10.08.757499,high,Yale University
+p043_c05,10.64898/2026.10.08.757499,mid,University of Kentucky
+p043_c06,10.64898/2026.10.08.757499,mid,University of Kansas
+p043_c07,10.64898/2026.10.08.757499,mid,University of New Mexico
+p043_c08,10.64898/2026.10.08.757499,mid,Oklahoma State University
+p043_c09,10.64898/2026.10.08.757499,mid,University of South Carolina
+p043_c10,10.64898/2026.10.08.757499,low,Austin Peay State University
+p043_c11,10.64898/2026.10.08.757499,low,Murray State University
+p043_c12,10.64898/2026.10.08.757499,low,University of Central Arkansas
+p043_c13,10.64898/2026.10.08.757499,low,University of Wisconsin-La Crosse
+p043_c14,10.64898/2026.10.08.757499,low,Western Illinois University
+p043_c15,10.64898/2026.10.08.757499,fictional,Halvern University
+p043_c16,10.64898/2026.10.08.757499,fictional,Ashcombe University
+p043_c17,10.64898/2026.10.08.757499,none,
+p044_c00,10.64898/2026.10.08.757518,high,Harvard University
+p044_c01,10.64898/2026.10.08.757518,high,Stanford University
+p044_c02,10.64898/2026.10.08.757518,high,Massachusetts Institute of Technology
+p044_c03,10.64898/2026.10.08.757518,high,"University of California, San Francisco"
+p044_c04,10.64898/2026.10.08.757518,high,Yale University
+p044_c05,10.64898/2026.10.08.757518,mid,University of Kentucky
+p044_c06,10.64898/2026.10.08.757518,mid,University of Kansas
+p044_c07,10.64898/2026.10.08.757518,mid,University of New Mexico
+p044_c08,10.64898/2026.10.08.757518,mid,Oklahoma State University
+p044_c09,10.64898/2026.10.08.757518,mid,University of South Carolina
+p044_c10,10.64898/2026.10.08.757518,low,Austin Peay State University
+p044_c11,10.64898/2026.10.08.757518,low,Murray State University
+p044_c12,10.64898/2026.10.08.757518,low,University of Central Arkansas
+p044_c13,10.64898/2026.10.08.757518,low,University of Wisconsin-La Crosse
+p044_c14,10.64898/2026.10.08.757518,low,Western Illinois University
+p044_c15,10.64898/2026.10.08.757518,fictional,Halvern University
+p044_c16,10.64898/2026.10.08.757518,fictional,Ashcombe University
+p044_c17,10.64898/2026.10.08.757518,none,
+p045_c00,10.64898/2026.10.08.757533,high,Harvard University
+p045_c01,10.64898/2026.10.08.757533,high,Stanford University
+p045_c02,10.64898/2026.10.08.757533,high,Massachusetts Institute of Technology
+p045_c03,10.64898/2026.10.08.757533,high,"University of California, San Francisco"
+p045_c04,10.64898/2026.10.08.757533,high,Yale University
+p045_c05,10.64898/2026.10.08.757533,mid,University of Kentucky
+p045_c06,10.64898/2026.10.08.757533,mid,University of Kansas
+p045_c07,10.64898/2026.10.08.757533,mid,University of New Mexico
+p045_c08,10.64898/2026.10.08.757533,mid,Oklahoma State University
+p045_c09,10.64898/2026.10.08.757533,mid,University of South Carolina
+p045_c10,10.64898/2026.10.08.757533,low,Austin Peay State University
+p045_c11,10.64898/2026.10.08.757533,low,Murray State University
+p045_c12,10.64898/2026.10.08.757533,low,University of Central Arkansas
+p045_c13,10.64898/2026.10.08.757533,low,University of Wisconsin-La Crosse
+p045_c14,10.64898/2026.10.08.757533,low,Western Illinois University
+p045_c15,10.64898/2026.10.08.757533,fictional,Halvern University
+p045_c16,10.64898/2026.10.08.757533,fictional,Ashcombe University
+p045_c17,10.64898/2026.10.08.757533,none,
+p046_c00,10.64898/2026.10.08.757536,high,Harvard University
+p046_c01,10.64898/2026.10.08.757536,high,Stanford University
+p046_c02,10.64898/2026.10.08.757536,high,Massachusetts Institute of Technology
+p046_c03,10.64898/2026.10.08.757536,high,"University of California, San Francisco"
+p046_c04,10.64898/2026.10.08.757536,high,Yale University
+p046_c05,10.64898/2026.10.08.757536,mid,University of Kentucky
+p046_c06,10.64898/2026.10.08.757536,mid,University of Kansas
+p046_c07,10.64898/2026.10.08.757536,mid,University of New Mexico
+p046_c08,10.64898/2026.10.08.757536,mid,Oklahoma State University
+p046_c09,10.64898/2026.10.08.757536,mid,University of South Carolina
+p046_c10,10.64898/2026.10.08.757536,low,Austin Peay State University
+p046_c11,10.64898/2026.10.08.757536,low,Murray State University
+p046_c12,10.64898/2026.10.08.757536,low,University of Central Arkansas
+p046_c13,10.64898/2026.10.08.757536,low,University of Wisconsin-La Crosse
+p046_c14,10.64898/2026.10.08.757536,low,Western Illinois University
+p046_c15,10.64898/2026.10.08.757536,fictional,Halvern University
+p046_c16,10.64898/2026.10.08.757536,fictional,Ashcombe University
+p046_c17,10.64898/2026.10.08.757536,none,
+p047_c00,10.64898/2026.10.08.757539,high,Harvard University
+p047_c01,10.64898/2026.10.08.757539,high,Stanford University
+p047_c02,10.64898/2026.10.08.757539,high,Massachusetts Institute of Technology
+p047_c03,10.64898/2026.10.08.757539,high,"University of California, San Francisco"
+p047_c04,10.64898/2026.10.08.757539,high,Yale University
+p047_c05,10.64898/2026.10.08.757539,mid,University of Kentucky
+p047_c06,10.64898/2026.10.08.757539,mid,University of Kansas
+p047_c07,10.64898/2026.10.08.757539,mid,University of New Mexico
+p047_c08,10.64898/2026.10.08.757539,mid,Oklahoma State University
+p047_c09,10.64898/2026.10.08.757539,mid,University of South Carolina
+p047_c10,10.64898/2026.10.08.757539,low,Austin Peay State University
+p047_c11,10.64898/2026.10.08.757539,low,Murray State University
+p047_c12,10.64898/2026.10.08.757539,low,University of Central Arkansas
+p047_c13,10.64898/2026.10.08.757539,low,University of Wisconsin-La Crosse
+p047_c14,10.64898/2026.10.08.757539,low,Western Illinois University
+p047_c15,10.64898/2026.10.08.757539,fictional,Halvern University
+p047_c16,10.64898/2026.10.08.757539,fictional,Ashcombe University
+p047_c17,10.64898/2026.10.08.757539,none,
+p048_c00,10.64898/2026.10.08.757552,high,Harvard University
+p048_c01,10.64898/2026.10.08.757552,high,Stanford University
+p048_c02,10.64898/2026.10.08.757552,high,Massachusetts Institute of Technology
+p048_c03,10.64898/2026.10.08.757552,high,"University of California, San Francisco"
+p048_c04,10.64898/2026.10.08.757552,high,Yale University
+p048_c05,10.64898/2026.10.08.757552,mid,University of Kentucky
+p048_c06,10.64898/2026.10.08.757552,mid,University of Kansas
+p048_c07,10.64898/2026.10.08.757552,mid,University of New Mexico
+p048_c08,10.64898/2026.10.08.757552,mid,Oklahoma State University
+p048_c09,10.64898/2026.10.08.757552,mid,University of South Carolina
+p048_c10,10.64898/2026.10.08.757552,low,Austin Peay State University
+p048_c11,10.64898/2026.10.08.757552,low,Murray State University
+p048_c12,10.64898/2026.10.08.757552,low,University of Central Arkansas
+p048_c13,10.64898/2026.10.08.757552,low,University of Wisconsin-La Crosse
+p048_c14,10.64898/2026.10.08.757552,low,Western Illinois University
+p048_c15,10.64898/2026.10.08.757552,fictional,Halvern University
+p048_c16,10.64898/2026.10.08.757552,fictional,Ashcombe University
+p048_c17,10.64898/2026.10.08.757552,none,
+p049_c00,10.64898/2026.10.08.757574,high,Harvard University
+p049_c01,10.64898/2026.10.08.757574,high,Stanford University
+p049_c02,10.64898/2026.10.08.757574,high,Massachusetts Institute of Technology
+p049_c03,10.64898/2026.10.08.757574,high,"University of California, San Francisco"
+p049_c04,10.64898/2026.10.08.757574,high,Yale University
+p049_c05,10.64898/2026.10.08.757574,mid,University of Kentucky
+p049_c06,10.64898/2026.10.08.757574,mid,University of Kansas
+p049_c07,10.64898/2026.10.08.757574,mid,University of New Mexico
+p049_c08,10.64898/2026.10.08.757574,mid,Oklahoma State University
+p049_c09,10.64898/2026.10.08.757574,mid,University of South Carolina
+p049_c10,10.64898/2026.10.08.757574,low,Austin Peay State University
+p049_c11,10.64898/2026.10.08.757574,low,Murray State University
+p049_c12,10.64898/2026.10.08.757574,low,University of Central Arkansas
+p049_c13,10.64898/2026.10.08.757574,low,University of Wisconsin-La Crosse
+p049_c14,10.64898/2026.10.08.757574,low,Western Illinois University
+p049_c15,10.64898/2026.10.08.757574,fictional,Halvern University
+p049_c16,10.64898/2026.10.08.757574,fictional,Ashcombe University
+p049_c17,10.64898/2026.10.08.757574,none,
+p050_c00,10.64898/2026.10.08.757605,high,Harvard University
+p050_c01,10.64898/2026.10.08.757605,high,Stanford University
+p050_c02,10.64898/2026.10.08.757605,high,Massachusetts Institute of Technology
+p050_c03,10.64898/2026.10.08.757605,high,"University of California, San Francisco"
+p050_c04,10.64898/2026.10.08.757605,high,Yale University
+p050_c05,10.64898/2026.10.08.757605,mid,University of Kentucky
+p050_c06,10.64898/2026.10.08.757605,mid,University of Kansas
+p050_c07,10.64898/2026.10.08.757605,mid,University of New Mexico
+p050_c08,10.64898/2026.10.08.757605,mid,Oklahoma State University
+p050_c09,10.64898/2026.10.08.757605,mid,University of South Carolina
+p050_c10,10.64898/2026.10.08.757605,low,Austin Peay State University
+p050_c11,10.64898/2026.10.08.757605,low,Murray State University
+p050_c12,10.64898/2026.10.08.757605,low,University of Central Arkansas
+p050_c13,10.64898/2026.10.08.757605,low,University of Wisconsin-La Crosse
+p050_c14,10.64898/2026.10.08.757605,low,Western Illinois University
+p050_c15,10.64898/2026.10.08.757605,fictional,Halvern University
+p050_c16,10.64898/2026.10.08.757605,fictional,Ashcombe University
+p050_c17,10.64898/2026.10.08.757605,none,
+p051_c00,10.64898/2026.10.08.757664,high,Harvard University
+p051_c01,10.64898/2026.10.08.757664,high,Stanford University
+p051_c02,10.64898/2026.10.08.757664,high,Massachusetts Institute of Technology
+p051_c03,10.64898/2026.10.08.757664,high,"University of California, San Francisco"
+p051_c04,10.64898/2026.10.08.757664,high,Yale University
+p051_c05,10.64898/2026.10.08.757664,mid,University of Kentucky
+p051_c06,10.64898/2026.10.08.757664,mid,University of Kansas
+p051_c07,10.64898/2026.10.08.757664,mid,University of New Mexico
+p051_c08,10.64898/2026.10.08.757664,mid,Oklahoma State University
+p051_c09,10.64898/2026.10.08.757664,mid,University of South Carolina
+p051_c10,10.64898/2026.10.08.757664,low,Austin Peay State University
+p051_c11,10.64898/2026.10.08.757664,low,Murray State University
+p051_c12,10.64898/2026.10.08.757664,low,University of Central Arkansas
+p051_c13,10.64898/2026.10.08.757664,low,University of Wisconsin-La Crosse
+p051_c14,10.64898/2026.10.08.757664,low,Western Illinois University
+p051_c15,10.64898/2026.10.08.757664,fictional,Halvern University
+p051_c16,10.64898/2026.10.08.757664,fictional,Ashcombe University
+p051_c17,10.64898/2026.10.08.757664,none,
+p052_c00,10.64898/2026.10.08.757731,high,Harvard University
+p052_c01,10.64898/2026.10.08.757731,high,Stanford University
+p052_c02,10.64898/2026.10.08.757731,high,Massachusetts Institute of Technology
+p052_c03,10.64898/2026.10.08.757731,high,"University of California, San Francisco"
+p052_c04,10.64898/2026.10.08.757731,high,Yale University
+p052_c05,10.64898/2026.10.08.757731,mid,University of Kentucky
+p052_c06,10.64898/2026.10.08.757731,mid,University of Kansas
+p052_c07,10.64898/2026.10.08.757731,mid,University of New Mexico
+p052_c08,10.64898/2026.10.08.757731,mid,Oklahoma State University
+p052_c09,10.64898/2026.10.08.757731,mid,University of South Carolina
+p052_c10,10.64898/2026.10.08.757731,low,Austin Peay State University
+p052_c11,10.64898/2026.10.08.757731,low,Murray State University
+p052_c12,10.64898/2026.10.08.757731,low,University of Central Arkansas
+p052_c13,10.64898/2026.10.08.757731,low,University of Wisconsin-La Crosse
+p052_c14,10.64898/2026.10.08.757731,low,Western Illinois University
+p052_c15,10.64898/2026.10.08.757731,fictional,Halvern University
+p052_c16,10.64898/2026.10.08.757731,fictional,Ashcombe University
+p052_c17,10.64898/2026.10.08.757731,none,
+p053_c00,10.64898/2026.10.08.757768,high,Harvard University
+p053_c01,10.64898/2026.10.08.757768,high,Stanford University
+p053_c02,10.64898/2026.10.08.757768,high,Massachusetts Institute of Technology
+p053_c03,10.64898/2026.10.08.757768,high,"University of California, San Francisco"
+p053_c04,10.64898/2026.10.08.757768,high,Yale University
+p053_c05,10.64898/2026.10.08.757768,mid,University of Kentucky
+p053_c06,10.64898/2026.10.08.757768,mid,University of Kansas
+p053_c07,10.64898/2026.10.08.757768,mid,University of New Mexico
+p053_c08,10.64898/2026.10.08.757768,mid,Oklahoma State University
+p053_c09,10.64898/2026.10.08.757768,mid,University of South Carolina
+p053_c10,10.64898/2026.10.08.757768,low,Austin Peay State University
+p053_c11,10.64898/2026.10.08.757768,low,Murray State University
+p053_c12,10.64898/2026.10.08.757768,low,University of Central Arkansas
+p053_c13,10.64898/2026.10.08.757768,low,University of Wisconsin-La Crosse
+p053_c14,10.64898/2026.10.08.757768,low,Western Illinois University
+p053_c15,10.64898/2026.10.08.757768,fictional,Halvern University
+p053_c16,10.64898/2026.10.08.757768,fictional,Ashcombe University
+p053_c17,10.64898/2026.10.08.757768,none,
+p054_c00,10.64898/2026.10.08.757802,high,Harvard University
+p054_c01,10.64898/2026.10.08.757802,high,Stanford University
+p054_c02,10.64898/2026.10.08.757802,high,Massachusetts Institute of Technology
+p054_c03,10.64898/2026.10.08.757802,high,"University of California, San Francisco"
+p054_c04,10.64898/2026.10.08.757802,high,Yale University
+p054_c05,10.64898/2026.10.08.757802,mid,University of Kentucky
+p054_c06,10.64898/2026.10.08.757802,mid,University of Kansas
+p054_c07,10.64898/2026.10.08.757802,mid,University of New Mexico
+p054_c08,10.64898/2026.10.08.757802,mid,Oklahoma State University
+p054_c09,10.64898/2026.10.08.757802,mid,University of South Carolina
+p054_c10,10.64898/2026.10.08.757802,low,Austin Peay State University
+p054_c11,10.64898/2026.10.08.757802,low,Murray State University
+p054_c12,10.64898/2026.10.08.757802,low,University of Central Arkansas
+p054_c13,10.64898/2026.10.08.757802,low,University of Wisconsin-La Crosse
+p054_c14,10.64898/2026.10.08.757802,low,Western Illinois University
+p054_c15,10.64898/2026.10.08.757802,fictional,Halvern University
+p054_c16,10.64898/2026.10.08.757802,fictional,Ashcombe University
+p054_c17,10.64898/2026.10.08.757802,none,
+p055_c00,10.64898/2026.10.06.756898,high,Harvard University
+p055_c01,10.64898/2026.10.06.756898,high,Stanford University
+p055_c02,10.64898/2026.10.06.756898,high,Massachusetts Institute of Technology
+p055_c03,10.64898/2026.10.06.756898,high,"University of California, San Francisco"
+p055_c04,10.64898/2026.10.06.756898,high,Yale University
+p055_c05,10.64898/2026.10.06.756898,mid,University of Kentucky
+p055_c06,10.64898/2026.10.06.756898,mid,University of Kansas
+p055_c07,10.64898/2026.10.06.756898,mid,University of New Mexico
+p055_c08,10.64898/2026.10.06.756898,mid,Oklahoma State University
+p055_c09,10.64898/2026.10.06.756898,mid,University of South Carolina
+p055_c10,10.64898/2026.10.06.756898,low,Austin Peay State University
+p055_c11,10.64898/2026.10.06.756898,low,Murray State University
+p055_c12,10.64898/2026.10.06.756898,low,University of Central Arkansas
+p055_c13,10.64898/2026.10.06.756898,low,University of Wisconsin-La Crosse
+p055_c14,10.64898/2026.10.06.756898,low,Western Illinois University
+p055_c15,10.64898/2026.10.06.756898,fictional,Halvern University
+p055_c16,10.64898/2026.10.06.756898,fictional,Ashcombe University
+p055_c17,10.64898/2026.10.06.756898,none,
+p056_c00,10.64898/2026.10.06.756943,high,Harvard University
+p056_c01,10.64898/2026.10.06.756943,high,Stanford University
+p056_c02,10.64898/2026.10.06.756943,high,Massachusetts Institute of Technology
+p056_c03,10.64898/2026.10.06.756943,high,"University of California, San Francisco"
+p056_c04,10.64898/2026.10.06.756943,high,Yale University
+p056_c05,10.64898/2026.10.06.756943,mid,University of Kentucky
+p056_c06,10.64898/2026.10.06.756943,mid,University of Kansas
+p056_c07,10.64898/2026.10.06.756943,mid,University of New Mexico
+p056_c08,10.64898/2026.10.06.756943,mid,Oklahoma State University
+p056_c09,10.64898/2026.10.06.756943,mid,University of South Carolina
+p056_c10,10.64898/2026.10.06.756943,low,Austin Peay State University
+p056_c11,10.64898/2026.10.06.756943,low,Murray State University
+p056_c12,10.64898/2026.10.06.756943,low,University of Central Arkansas
+p056_c13,10.64898/2026.10.06.756943,low,University of Wisconsin-La Crosse
+p056_c14,10.64898/2026.10.06.756943,low,Western Illinois University
+p056_c15,10.64898/2026.10.06.756943,fictional,Halvern University
+p056_c16,10.64898/2026.10.06.756943,fictional,Ashcombe University
+p056_c17,10.64898/2026.10.06.756943,none,
+p057_c00,10.64898/2026.10.07.757257,high,Harvard University
+p057_c01,10.64898/2026.10.07.757257,high,Stanford University
+p057_c02,10.64898/2026.10.07.757257,high,Massachusetts Institute of Technology
+p057_c03,10.64898/2026.10.07.757257,high,"University of California, San Francisco"
+p057_c04,10.64898/2026.10.07.757257,high,Yale University
+p057_c05,10.64898/2026.10.07.757257,mid,University of Kentucky
+p057_c06,10.64898/2026.10.07.757257,mid,University of Kansas
+p057_c07,10.64898/2026.10.07.757257,mid,University of New Mexico
+p057_c08,10.64898/2026.10.07.757257,mid,Oklahoma State University
+p057_c09,10.64898/2026.10.07.757257,mid,University of South Carolina
+p057_c10,10.64898/2026.10.07.757257,low,Austin Peay State University
+p057_c11,10.64898/2026.10.07.757257,low,Murray State University
+p057_c12,10.64898/2026.10.07.757257,low,University of Central Arkansas
+p057_c13,10.64898/2026.10.07.757257,low,University of Wisconsin-La Crosse
+p057_c14,10.64898/2026.10.07.757257,low,Western Illinois University
+p057_c15,10.64898/2026.10.07.757257,fictional,Halvern University
+p057_c16,10.64898/2026.10.07.757257,fictional,Ashcombe University
+p057_c17,10.64898/2026.10.07.757257,none,
+p058_c00,10.64898/2026.10.01.755830,high,Harvard University
+p058_c01,10.64898/2026.10.01.755830,high,Stanford University
+p058_c02,10.64898/2026.10.01.755830,high,Massachusetts Institute of Technology
+p058_c03,10.64898/2026.10.01.755830,high,"University of California, San Francisco"
+p058_c04,10.64898/2026.10.01.755830,high,Yale University
+p058_c05,10.64898/2026.10.01.755830,mid,University of Kentucky
+p058_c06,10.64898/2026.10.01.755830,mid,University of Kansas
+p058_c07,10.64898/2026.10.01.755830,mid,University of New Mexico
+p058_c08,10.64898/2026.10.01.755830,mid,Oklahoma State University
+p058_c09,10.64898/2026.10.01.755830,mid,University of South Carolina
+p058_c10,10.64898/2026.10.01.755830,low,Austin Peay State University
+p058_c11,10.64898/2026.10.01.755830,low,Murray State University
+p058_c12,10.64898/2026.10.01.755830,low,University of Central Arkansas
+p058_c13,10.64898/2026.10.01.755830,low,University of Wisconsin-La Crosse
+p058_c14,10.64898/2026.10.01.755830,low,Western Illinois University
+p058_c15,10.64898/2026.10.01.755830,fictional,Halvern University
+p058_c16,10.64898/2026.10.01.755830,fictional,Ashcombe University
+p058_c17,10.64898/2026.10.01.755830,none,
+p059_c00,10.64898/2026.10.01.755863,high,Harvard University
+p059_c01,10.64898/2026.10.01.755863,high,Stanford University
+p059_c02,10.64898/2026.10.01.755863,high,Massachusetts Institute of Technology
+p059_c03,10.64898/2026.10.01.755863,high,"University of California, San Francisco"
+p059_c04,10.64898/2026.10.01.755863,high,Yale University
+p059_c05,10.64898/2026.10.01.755863,mid,University of Kentucky
+p059_c06,10.64898/2026.10.01.755863,mid,University of Kansas
+p059_c07,10.64898/2026.10.01.755863,mid,University of New Mexico
+p059_c08,10.64898/2026.10.01.755863,mid,Oklahoma State University
+p059_c09,10.64898/2026.10.01.755863,mid,University of South Carolina
+p059_c10,10.64898/2026.10.01.755863,low,Austin Peay State University
+p059_c11,10.64898/2026.10.01.755863,low,Murray State University
+p059_c12,10.64898/2026.10.01.755863,low,University of Central Arkansas
+p059_c13,10.64898/2026.10.01.755863,low,University of Wisconsin-La Crosse
+p059_c14,10.64898/2026.10.01.755863,low,Western Illinois University
+p059_c15,10.64898/2026.10.01.755863,fictional,Halvern University
+p059_c16,10.64898/2026.10.01.755863,fictional,Ashcombe University
+p059_c17,10.64898/2026.10.01.755863,none,
+p060_c00,10.64898/2026.10.01.756096,high,Harvard University
+p060_c01,10.64898/2026.10.01.756096,high,Stanford University
+p060_c02,10.64898/2026.10.01.756096,high,Massachusetts Institute of Technology
+p060_c03,10.64898/2026.10.01.756096,high,"University of California, San Francisco"
+p060_c04,10.64898/2026.10.01.756096,high,Yale University
+p060_c05,10.64898/2026.10.01.756096,mid,University of Kentucky
+p060_c06,10.64898/2026.10.01.756096,mid,University of Kansas
+p060_c07,10.64898/2026.10.01.756096,mid,University of New Mexico
+p060_c08,10.64898/2026.10.01.756096,mid,Oklahoma State University
+p060_c09,10.64898/2026.10.01.756096,mid,University of South Carolina
+p060_c10,10.64898/2026.10.01.756096,low,Austin Peay State University
+p060_c11,10.64898/2026.10.01.756096,low,Murray State University
+p060_c12,10.64898/2026.10.01.756096,low,University of Central Arkansas
+p060_c13,10.64898/2026.10.01.756096,low,University of Wisconsin-La Crosse
+p060_c14,10.64898/2026.10.01.756096,low,Western Illinois University
+p060_c15,10.64898/2026.10.01.756096,fictional,Halvern University
+p060_c16,10.64898/2026.10.01.756096,fictional,Ashcombe University
+p060_c17,10.64898/2026.10.01.756096,none,
+p061_c00,10.64898/2026.10.05.756849,high,Harvard University
+p061_c01,10.64898/2026.10.05.756849,high,Stanford University
+p061_c02,10.64898/2026.10.05.756849,high,Massachusetts Institute of Technology
+p061_c03,10.64898/2026.10.05.756849,high,"University of California, San Francisco"
+p061_c04,10.64898/2026.10.05.756849,high,Yale University
+p061_c05,10.64898/2026.10.05.756849,mid,University of Kentucky
+p061_c06,10.64898/2026.10.05.756849,mid,University of Kansas
+p061_c07,10.64898/2026.10.05.756849,mid,University of New Mexico
+p061_c08,10.64898/2026.10.05.756849,mid,Oklahoma State University
+p061_c09,10.64898/2026.10.05.756849,mid,University of South Carolina
+p061_c10,10.64898/2026.10.05.756849,low,Austin Peay State University
+p061_c11,10.64898/2026.10.05.756849,low,Murray State University
+p061_c12,10.64898/2026.10.05.756849,low,University of Central Arkansas
+p061_c13,10.64898/2026.10.05.756849,low,University of Wisconsin-La Crosse
+p061_c14,10.64898/2026.10.05.756849,low,Western Illinois University
+p061_c15,10.64898/2026.10.05.756849,fictional,Halvern University
+p061_c16,10.64898/2026.10.05.756849,fictional,Ashcombe University
+p061_c17,10.64898/2026.10.05.756849,none,
+p062_c00,10.64898/2026.10.06.754136,high,Harvard University
+p062_c01,10.64898/2026.10.06.754136,high,Stanford University
+p062_c02,10.64898/2026.10.06.754136,high,Massachusetts Institute of Technology
+p062_c03,10.64898/2026.10.06.754136,high,"University of California, San Francisco"
+p062_c04,10.64898/2026.10.06.754136,high,Yale University
+p062_c05,10.64898/2026.10.06.754136,mid,University of Kentucky
+p062_c06,10.64898/2026.10.06.754136,mid,University of Kansas
+p062_c07,10.64898/2026.10.06.754136,mid,University of New Mexico
+p062_c08,10.64898/2026.10.06.754136,mid,Oklahoma State University
+p062_c09,10.64898/2026.10.06.754136,mid,University of South Carolina
+p062_c10,10.64898/2026.10.06.754136,low,Austin Peay State University
+p062_c11,10.64898/2026.10.06.754136,low,Murray State University
+p062_c12,10.64898/2026.10.06.754136,low,University of Central Arkansas
+p062_c13,10.64898/2026.10.06.754136,low,University of Wisconsin-La Crosse
+p062_c14,10.64898/2026.10.06.754136,low,Western Illinois University
+p062_c15,10.64898/2026.10.06.754136,fictional,Halvern University
+p062_c16,10.64898/2026.10.06.754136,fictional,Ashcombe University
+p062_c17,10.64898/2026.10.06.754136,none,
+p063_c00,10.64898/2026.10.06.755412,high,Harvard University
+p063_c01,10.64898/2026.10.06.755412,high,Stanford University
+p063_c02,10.64898/2026.10.06.755412,high,Massachusetts Institute of Technology
+p063_c03,10.64898/2026.10.06.755412,high,"University of California, San Francisco"
+p063_c04,10.64898/2026.10.06.755412,high,Yale University
+p063_c05,10.64898/2026.10.06.755412,mid,University of Kentucky
+p063_c06,10.64898/2026.10.06.755412,mid,University of Kansas
+p063_c07,10.64898/2026.10.06.755412,mid,University of New Mexico
+p063_c08,10.64898/2026.10.06.755412,mid,Oklahoma State University
+p063_c09,10.64898/2026.10.06.755412,mid,University of South Carolina
+p063_c10,10.64898/2026.10.06.755412,low,Austin Peay State University
+p063_c11,10.64898/2026.10.06.755412,low,Murray State University
+p063_c12,10.64898/2026.10.06.755412,low,University of Central Arkansas
+p063_c13,10.64898/2026.10.06.755412,low,University of Wisconsin-La Crosse
+p063_c14,10.64898/2026.10.06.755412,low,Western Illinois University
+p063_c15,10.64898/2026.10.06.755412,fictional,Halvern University
+p063_c16,10.64898/2026.10.06.755412,fictional,Ashcombe University
+p063_c17,10.64898/2026.10.06.755412,none,
+p064_c00,10.64898/2026.10.06.756462,high,Harvard University
+p064_c01,10.64898/2026.10.06.756462,high,Stanford University
+p064_c02,10.64898/2026.10.06.756462,high,Massachusetts Institute of Technology
+p064_c03,10.64898/2026.10.06.756462,high,"University of California, San Francisco"
+p064_c04,10.64898/2026.10.06.756462,high,Yale University
+p064_c05,10.64898/2026.10.06.756462,mid,University of Kentucky
+p064_c06,10.64898/2026.10.06.756462,mid,University of Kansas
+p064_c07,10.64898/2026.10.06.756462,mid,University of New Mexico
+p064_c08,10.64898/2026.10.06.756462,mid,Oklahoma State University
+p064_c09,10.64898/2026.10.06.756462,mid,University of South Carolina
+p064_c10,10.64898/2026.10.06.756462,low,Austin Peay State University
+p064_c11,10.64898/2026.10.06.756462,low,Murray State University
+p064_c12,10.64898/2026.10.06.756462,low,University of Central Arkansas
+p064_c13,10.64898/2026.10.06.756462,low,University of Wisconsin-La Crosse
+p064_c14,10.64898/2026.10.06.756462,low,Western Illinois University
+p064_c15,10.64898/2026.10.06.756462,fictional,Halvern University
+p064_c16,10.64898/2026.10.06.756462,fictional,Ashcombe University
+p064_c17,10.64898/2026.10.06.756462,none,
+p065_c00,10.64898/2026.10.06.756745,high,Harvard University
+p065_c01,10.64898/2026.10.06.756745,high,Stanford University
+p065_c02,10.64898/2026.10.06.756745,high,Massachusetts Institute of Technology
+p065_c03,10.64898/2026.10.06.756745,high,"University of California, San Francisco"
+p065_c04,10.64898/2026.10.06.756745,high,Yale University
+p065_c05,10.64898/2026.10.06.756745,mid,University of Kentucky
+p065_c06,10.64898/2026.10.06.756745,mid,University of Kansas
+p065_c07,10.64898/2026.10.06.756745,mid,University of New Mexico
+p065_c08,10.64898/2026.10.06.756745,mid,Oklahoma State University
+p065_c09,10.64898/2026.10.06.756745,mid,University of South Carolina
+p065_c10,10.64898/2026.10.06.756745,low,Austin Peay State University
+p065_c11,10.64898/2026.10.06.756745,low,Murray State University
+p065_c12,10.64898/2026.10.06.756745,low,University of Central Arkansas
+p065_c13,10.64898/2026.10.06.756745,low,University of Wisconsin-La Crosse
+p065_c14,10.64898/2026.10.06.756745,low,Western Illinois University
+p065_c15,10.64898/2026.10.06.756745,fictional,Halvern University
+p065_c16,10.64898/2026.10.06.756745,fictional,Ashcombe University
+p065_c17,10.64898/2026.10.06.756745,none,
+p066_c00,10.64898/2026.10.06.756889,high,Harvard University
+p066_c01,10.64898/2026.10.06.756889,high,Stanford University
+p066_c02,10.64898/2026.10.06.756889,high,Massachusetts Institute of Technology
+p066_c03,10.64898/2026.10.06.756889,high,"University of California, San Francisco"
+p066_c04,10.64898/2026.10.06.756889,high,Yale University
+p066_c05,10.64898/2026.10.06.756889,mid,University of Kentucky
+p066_c06,10.64898/2026.10.06.756889,mid,University of Kansas
+p066_c07,10.64898/2026.10.06.756889,mid,University of New Mexico
+p066_c08,10.64898/2026.10.06.756889,mid,Oklahoma State University
+p066_c09,10.64898/2026.10.06.756889,mid,University of South Carolina
+p066_c10,10.64898/2026.10.06.756889,low,Austin Peay State University
+p066_c11,10.64898/2026.10.06.756889,low,Murray State University
+p066_c12,10.64898/2026.10.06.756889,low,University of Central Arkansas
+p066_c13,10.64898/2026.10.06.756889,low,University of Wisconsin-La Crosse
+p066_c14,10.64898/2026.10.06.756889,low,Western Illinois University
+p066_c15,10.64898/2026.10.06.756889,fictional,Halvern University
+p066_c16,10.64898/2026.10.06.756889,fictional,Ashcombe University
+p066_c17,10.64898/2026.10.06.756889,none,
+p067_c00,10.64898/2026.10.06.756927,high,Harvard University
+p067_c01,10.64898/2026.10.06.756927,high,Stanford University
+p067_c02,10.64898/2026.10.06.756927,high,Massachusetts Institute of Technology
+p067_c03,10.64898/2026.10.06.756927,high,"University of California, San Francisco"
+p067_c04,10.64898/2026.10.06.756927,high,Yale University
+p067_c05,10.64898/2026.10.06.756927,mid,University of Kentucky
+p067_c06,10.64898/2026.10.06.756927,mid,University of Kansas
+p067_c07,10.64898/2026.10.06.756927,mid,University of New Mexico
+p067_c08,10.64898/2026.10.06.756927,mid,Oklahoma State University
+p067_c09,10.64898/2026.10.06.756927,mid,University of South Carolina
+p067_c10,10.64898/2026.10.06.756927,low,Austin Peay State University
+p067_c11,10.64898/2026.10.06.756927,low,Murray State University
+p067_c12,10.64898/2026.10.06.756927,low,University of Central Arkansas
+p067_c13,10.64898/2026.10.06.756927,low,University of Wisconsin-La Crosse
+p067_c14,10.64898/2026.10.06.756927,low,Western Illinois University
+p067_c15,10.64898/2026.10.06.756927,fictional,Halvern University
+p067_c16,10.64898/2026.10.06.756927,fictional,Ashcombe University
+p067_c17,10.64898/2026.10.06.756927,none,
+p068_c00,10.64898/2026.10.06.757022,high,Harvard University
+p068_c01,10.64898/2026.10.06.757022,high,Stanford University
+p068_c02,10.64898/2026.10.06.757022,high,Massachusetts Institute of Technology
+p068_c03,10.64898/2026.10.06.757022,high,"University of California, San Francisco"
+p068_c04,10.64898/2026.10.06.757022,high,Yale University
+p068_c05,10.64898/2026.10.06.757022,mid,University of Kentucky
+p068_c06,10.64898/2026.10.06.757022,mid,University of Kansas
+p068_c07,10.64898/2026.10.06.757022,mid,University of New Mexico
+p068_c08,10.64898/2026.10.06.757022,mid,Oklahoma State University
+p068_c09,10.64898/2026.10.06.757022,mid,University of South Carolina
+p068_c10,10.64898/2026.10.06.757022,low,Austin Peay State University
+p068_c11,10.64898/2026.10.06.757022,low,Murray State University
+p068_c12,10.64898/2026.10.06.757022,low,University of Central Arkansas
+p068_c13,10.64898/2026.10.06.757022,low,University of Wisconsin-La Crosse
+p068_c14,10.64898/2026.10.06.757022,low,Western Illinois University
+p068_c15,10.64898/2026.10.06.757022,fictional,Halvern University
+p068_c16,10.64898/2026.10.06.757022,fictional,Ashcombe University
+p068_c17,10.64898/2026.10.06.757022,none,
+p069_c00,10.64898/2026.10.06.757079,high,Harvard University
+p069_c01,10.64898/2026.10.06.757079,high,Stanford University
+p069_c02,10.64898/2026.10.06.757079,high,Massachusetts Institute of Technology
+p069_c03,10.64898/2026.10.06.757079,high,"University of California, San Francisco"
+p069_c04,10.64898/2026.10.06.757079,high,Yale University
+p069_c05,10.64898/2026.10.06.757079,mid,University of Kentucky
+p069_c06,10.64898/2026.10.06.757079,mid,University of Kansas
+p069_c07,10.64898/2026.10.06.757079,mid,University of New Mexico
+p069_c08,10.64898/2026.10.06.757079,mid,Oklahoma State University
+p069_c09,10.64898/2026.10.06.757079,mid,University of South Carolina
+p069_c10,10.64898/2026.10.06.757079,low,Austin Peay State University
+p069_c11,10.64898/2026.10.06.757079,low,Murray State University
+p069_c12,10.64898/2026.10.06.757079,low,University of Central Arkansas
+p069_c13,10.64898/2026.10.06.757079,low,University of Wisconsin-La Crosse
+p069_c14,10.64898/2026.10.06.757079,low,Western Illinois University
+p069_c15,10.64898/2026.10.06.757079,fictional,Halvern University
+p069_c16,10.64898/2026.10.06.757079,fictional,Ashcombe University
+p069_c17,10.64898/2026.10.06.757079,none,
+p070_c00,10.64898/2026.10.06.757090,high,Harvard University
+p070_c01,10.64898/2026.10.06.757090,high,Stanford University
+p070_c02,10.64898/2026.10.06.757090,high,Massachusetts Institute of Technology
+p070_c03,10.64898/2026.10.06.757090,high,"University of California, San Francisco"
+p070_c04,10.64898/2026.10.06.757090,high,Yale University
+p070_c05,10.64898/2026.10.06.757090,mid,University of Kentucky
+p070_c06,10.64898/2026.10.06.757090,mid,University of Kansas
+p070_c07,10.64898/2026.10.06.757090,mid,University of New Mexico
+p070_c08,10.64898/2026.10.06.757090,mid,Oklahoma State University
+p070_c09,10.64898/2026.10.06.757090,mid,University of South Carolina
+p070_c10,10.64898/2026.10.06.757090,low,Austin Peay State University
+p070_c11,10.64898/2026.10.06.757090,low,Murray State University
+p070_c12,10.64898/2026.10.06.757090,low,University of Central Arkansas
+p070_c13,10.64898/2026.10.06.757090,low,University of Wisconsin-La Crosse
+p070_c14,10.64898/2026.10.06.757090,low,Western Illinois University
+p070_c15,10.64898/2026.10.06.757090,fictional,Halvern University
+p070_c16,10.64898/2026.10.06.757090,fictional,Ashcombe University
+p070_c17,10.64898/2026.10.06.757090,none,
+p071_c00,10.64898/2026.10.06.757119,high,Harvard University
+p071_c01,10.64898/2026.10.06.757119,high,Stanford University
+p071_c02,10.64898/2026.10.06.757119,high,Massachusetts Institute of Technology
+p071_c03,10.64898/2026.10.06.757119,high,"University of California, San Francisco"
+p071_c04,10.64898/2026.10.06.757119,high,Yale University
+p071_c05,10.64898/2026.10.06.757119,mid,University of Kentucky
+p071_c06,10.64898/2026.10.06.757119,mid,University of Kansas
+p071_c07,10.64898/2026.10.06.757119,mid,University of New Mexico
+p071_c08,10.64898/2026.10.06.757119,mid,Oklahoma State University
+p071_c09,10.64898/2026.10.06.757119,mid,University of South Carolina
+p071_c10,10.64898/2026.10.06.757119,low,Austin Peay State University
+p071_c11,10.64898/2026.10.06.757119,low,Murray State University
+p071_c12,10.64898/2026.10.06.757119,low,University of Central Arkansas
+p071_c13,10.64898/2026.10.06.757119,low,University of Wisconsin-La Crosse
+p071_c14,10.64898/2026.10.06.757119,low,Western Illinois University
+p071_c15,10.64898/2026.10.06.757119,fictional,Halvern University
+p071_c16,10.64898/2026.10.06.757119,fictional,Ashcombe University
+p071_c17,10.64898/2026.10.06.757119,none,
+p072_c00,10.64898/2026.10.06.757199,high,Harvard University
+p072_c01,10.64898/2026.10.06.757199,high,Stanford University
+p072_c02,10.64898/2026.10.06.757199,high,Massachusetts Institute of Technology
+p072_c03,10.64898/2026.10.06.757199,high,"University of California, San Francisco"
+p072_c04,10.64898/2026.10.06.757199,high,Yale University
+p072_c05,10.64898/2026.10.06.757199,mid,University of Kentucky
+p072_c06,10.64898/2026.10.06.757199,mid,University of Kansas
+p072_c07,10.64898/2026.10.06.757199,mid,University of New Mexico
+p072_c08,10.64898/2026.10.06.757199,mid,Oklahoma State University
+p072_c09,10.64898/2026.10.06.757199,mid,University of South Carolina
+p072_c10,10.64898/2026.10.06.757199,low,Austin Peay State University
+p072_c11,10.64898/2026.10.06.757199,low,Murray State University
+p072_c12,10.64898/2026.10.06.757199,low,University of Central Arkansas
+p072_c13,10.64898/2026.10.06.757199,low,University of Wisconsin-La Crosse
+p072_c14,10.64898/2026.10.06.757199,low,Western Illinois University
+p072_c15,10.64898/2026.10.06.757199,fictional,Halvern University
+p072_c16,10.64898/2026.10.06.757199,fictional,Ashcombe University
+p072_c17,10.64898/2026.10.06.757199,none,
+p073_c00,10.64898/2026.09.30.755612,high,Harvard University
+p073_c01,10.64898/2026.09.30.755612,high,Stanford University
+p073_c02,10.64898/2026.09.30.755612,high,Massachusetts Institute of Technology
+p073_c03,10.64898/2026.09.30.755612,high,"University of California, San Francisco"
+p073_c04,10.64898/2026.09.30.755612,high,Yale University
+p073_c05,10.64898/2026.09.30.755612,mid,University of Kentucky
+p073_c06,10.64898/2026.09.30.755612,mid,University of Kansas
+p073_c07,10.64898/2026.09.30.755612,mid,University of New Mexico
+p073_c08,10.64898/2026.09.30.755612,mid,Oklahoma State University
+p073_c09,10.64898/2026.09.30.755612,mid,University of South Carolina
+p073_c10,10.64898/2026.09.30.755612,low,Austin Peay State University
+p073_c11,10.64898/2026.09.30.755612,low,Murray State University
+p073_c12,10.64898/2026.09.30.755612,low,University of Central Arkansas
+p073_c13,10.64898/2026.09.30.755612,low,University of Wisconsin-La Crosse
+p073_c14,10.64898/2026.09.30.755612,low,Western Illinois University
+p073_c15,10.64898/2026.09.30.755612,fictional,Halvern University
+p073_c16,10.64898/2026.09.30.755612,fictional,Ashcombe University
+p073_c17,10.64898/2026.09.30.755612,none,
+p074_c00,10.64898/2026.10.02.756243,high,Harvard University
+p074_c01,10.64898/2026.10.02.756243,high,Stanford University
+p074_c02,10.64898/2026.10.02.756243,high,Massachusetts Institute of Technology
+p074_c03,10.64898/2026.10.02.756243,high,"University of California, San Francisco"
+p074_c04,10.64898/2026.10.02.756243,high,Yale University
+p074_c05,10.64898/2026.10.02.756243,mid,University of Kentucky
+p074_c06,10.64898/2026.10.02.756243,mid,University of Kansas
+p074_c07,10.64898/2026.10.02.756243,mid,University of New Mexico
+p074_c08,10.64898/2026.10.02.756243,mid,Oklahoma State University
+p074_c09,10.64898/2026.10.02.756243,mid,University of South Carolina
+p074_c10,10.64898/2026.10.02.756243,low,Austin Peay State University
+p074_c11,10.64898/2026.10.02.756243,low,Murray State University
+p074_c12,10.64898/2026.10.02.756243,low,University of Central Arkansas
+p074_c13,10.64898/2026.10.02.756243,low,University of Wisconsin-La Crosse
+p074_c14,10.64898/2026.10.02.756243,low,Western Illinois University
+p074_c15,10.64898/2026.10.02.756243,fictional,Halvern University
+p074_c16,10.64898/2026.10.02.756243,fictional,Ashcombe University
+p074_c17,10.64898/2026.10.02.756243,none,
+p075_c00,10.64898/2026.10.02.756293,high,Harvard University
+p075_c01,10.64898/2026.10.02.756293,high,Stanford University
+p075_c02,10.64898/2026.10.02.756293,high,Massachusetts Institute of Technology
+p075_c03,10.64898/2026.10.02.756293,high,"University of California, San Francisco"
+p075_c04,10.64898/2026.10.02.756293,high,Yale University
+p075_c05,10.64898/2026.10.02.756293,mid,University of Kentucky
+p075_c06,10.64898/2026.10.02.756293,mid,University of Kansas
+p075_c07,10.64898/2026.10.02.756293,mid,University of New Mexico
+p075_c08,10.64898/2026.10.02.756293,mid,Oklahoma State University
+p075_c09,10.64898/2026.10.02.756293,mid,University of South Carolina
+p075_c10,10.64898/2026.10.02.756293,low,Austin Peay State University
+p075_c11,10.64898/2026.10.02.756293,low,Murray State University
+p075_c12,10.64898/2026.10.02.756293,low,University of Central Arkansas
+p075_c13,10.64898/2026.10.02.756293,low,University of Wisconsin-La Crosse
+p075_c14,10.64898/2026.10.02.756293,low,Western Illinois University
+p075_c15,10.64898/2026.10.02.756293,fictional,Halvern University
+p075_c16,10.64898/2026.10.02.756293,fictional,Ashcombe University
+p075_c17,10.64898/2026.10.02.756293,none,
+p076_c00,10.64898/2026.10.02.756370,high,Harvard University
+p076_c01,10.64898/2026.10.02.756370,high,Stanford University
+p076_c02,10.64898/2026.10.02.756370,high,Massachusetts Institute of Technology
+p076_c03,10.64898/2026.10.02.756370,high,"University of California, San Francisco"
+p076_c04,10.64898/2026.10.02.756370,high,Yale University
+p076_c05,10.64898/2026.10.02.756370,mid,University of Kentucky
+p076_c06,10.64898/2026.10.02.756370,mid,University of Kansas
+p076_c07,10.64898/2026.10.02.756370,mid,University of New Mexico
+p076_c08,10.64898/2026.10.02.756370,mid,Oklahoma State University
+p076_c09,10.64898/2026.10.02.756370,mid,University of South Carolina
+p076_c10,10.64898/2026.10.02.756370,low,Austin Peay State University
+p076_c11,10.64898/2026.10.02.756370,low,Murray State University
+p076_c12,10.64898/2026.10.02.756370,low,University of Central Arkansas
+p076_c13,10.64898/2026.10.02.756370,low,University of Wisconsin-La Crosse
+p076_c14,10.64898/2026.10.02.756370,low,Western Illinois University
+p076_c15,10.64898/2026.10.02.756370,fictional,Halvern University
+p076_c16,10.64898/2026.10.02.756370,fictional,Ashcombe University
+p076_c17,10.64898/2026.10.02.756370,none,
+p077_c00,10.64898/2026.10.02.756373,high,Harvard University
+p077_c01,10.64898/2026.10.02.756373,high,Stanford University
+p077_c02,10.64898/2026.10.02.756373,high,Massachusetts Institute of Technology
+p077_c03,10.64898/2026.10.02.756373,high,"University of California, San Francisco"
+p077_c04,10.64898/2026.10.02.756373,high,Yale University
+p077_c05,10.64898/2026.10.02.756373,mid,University of Kentucky
+p077_c06,10.64898/2026.10.02.756373,mid,University of Kansas
+p077_c07,10.64898/2026.10.02.756373,mid,University of New Mexico
+p077_c08,10.64898/2026.10.02.756373,mid,Oklahoma State University
+p077_c09,10.64898/2026.10.02.756373,mid,University of South Carolina
+p077_c10,10.64898/2026.10.02.756373,low,Austin Peay State University
+p077_c11,10.64898/2026.10.02.756373,low,Murray State University
+p077_c12,10.64898/2026.10.02.756373,low,University of Central Arkansas
+p077_c13,10.64898/2026.10.02.756373,low,University of Wisconsin-La Crosse
+p077_c14,10.64898/2026.10.02.756373,low,Western Illinois University
+p077_c15,10.64898/2026.10.02.756373,fictional,Halvern University
+p077_c16,10.64898/2026.10.02.756373,fictional,Ashcombe University
+p077_c17,10.64898/2026.10.02.756373,none,
+p078_c00,10.64898/2026.10.03.756392,high,Harvard University
+p078_c01,10.64898/2026.10.03.756392,high,Stanford University
+p078_c02,10.64898/2026.10.03.756392,high,Massachusetts Institute of Technology
+p078_c03,10.64898/2026.10.03.756392,high,"University of California, San Francisco"
+p078_c04,10.64898/2026.10.03.756392,high,Yale University
+p078_c05,10.64898/2026.10.03.756392,mid,University of Kentucky
+p078_c06,10.64898/2026.10.03.756392,mid,University of Kansas
+p078_c07,10.64898/2026.10.03.756392,mid,University of New Mexico
+p078_c08,10.64898/2026.10.03.756392,mid,Oklahoma State University
+p078_c09,10.64898/2026.10.03.756392,mid,University of South Carolina
+p078_c10,10.64898/2026.10.03.756392,low,Austin Peay State University
+p078_c11,10.64898/2026.10.03.756392,low,Murray State University
+p078_c12,10.64898/2026.10.03.756392,low,University of Central Arkansas
+p078_c13,10.64898/2026.10.03.756392,low,University of Wisconsin-La Crosse
+p078_c14,10.64898/2026.10.03.756392,low,Western Illinois University
+p078_c15,10.64898/2026.10.03.756392,fictional,Halvern University
+p078_c16,10.64898/2026.10.03.756392,fictional,Ashcombe University
+p078_c17,10.64898/2026.10.03.756392,none,
+p079_c00,10.64898/2026.10.03.756418,high,Harvard University
+p079_c01,10.64898/2026.10.03.756418,high,Stanford University
+p079_c02,10.64898/2026.10.03.756418,high,Massachusetts Institute of Technology
+p079_c03,10.64898/2026.10.03.756418,high,"University of California, San Francisco"
+p079_c04,10.64898/2026.10.03.756418,high,Yale University
+p079_c05,10.64898/2026.10.03.756418,mid,University of Kentucky
+p079_c06,10.64898/2026.10.03.756418,mid,University of Kansas
+p079_c07,10.64898/2026.10.03.756418,mid,University of New Mexico
+p079_c08,10.64898/2026.10.03.756418,mid,Oklahoma State University
+p079_c09,10.64898/2026.10.03.756418,mid,University of South Carolina
+p079_c10,10.64898/2026.10.03.756418,low,Austin Peay State University
+p079_c11,10.64898/2026.10.03.756418,low,Murray State University
+p079_c12,10.64898/2026.10.03.756418,low,University of Central Arkansas
+p079_c13,10.64898/2026.10.03.756418,low,University of Wisconsin-La Crosse
+p079_c14,10.64898/2026.10.03.756418,low,Western Illinois University
+p079_c15,10.64898/2026.10.03.756418,fictional,Halvern University
+p079_c16,10.64898/2026.10.03.756418,fictional,Ashcombe University
+p079_c17,10.64898/2026.10.03.756418,none,
+p080_c00,10.64898/2026.10.03.756465,high,Harvard University
+p080_c01,10.64898/2026.10.03.756465,high,Stanford University
+p080_c02,10.64898/2026.10.03.756465,high,Massachusetts Institute of Technology
+p080_c03,10.64898/2026.10.03.756465,high,"University of California, San Francisco"
+p080_c04,10.64898/2026.10.03.756465,high,Yale University
+p080_c05,10.64898/2026.10.03.756465,mid,University of Kentucky
+p080_c06,10.64898/2026.10.03.756465,mid,University of Kansas
+p080_c07,10.64898/2026.10.03.756465,mid,University of New Mexico
+p080_c08,10.64898/2026.10.03.756465,mid,Oklahoma State University
+p080_c09,10.64898/2026.10.03.756465,mid,University of South Carolina
+p080_c10,10.64898/2026.10.03.756465,low,Austin Peay State University
+p080_c11,10.64898/2026.10.03.756465,low,Murray State University
+p080_c12,10.64898/2026.10.03.756465,low,University of Central Arkansas
+p080_c13,10.64898/2026.10.03.756465,low,University of Wisconsin-La Crosse
+p080_c14,10.64898/2026.10.03.756465,low,Western Illinois University
+p080_c15,10.64898/2026.10.03.756465,fictional,Halvern University
+p080_c16,10.64898/2026.10.03.756465,fictional,Ashcombe University
+p080_c17,10.64898/2026.10.03.756465,none,
+p081_c00,10.64898/2026.10.05.752757,high,Harvard University
+p081_c01,10.64898/2026.10.05.752757,high,Stanford University
+p081_c02,10.64898/2026.10.05.752757,high,Massachusetts Institute of Technology
+p081_c03,10.64898/2026.10.05.752757,high,"University of California, San Francisco"
+p081_c04,10.64898/2026.10.05.752757,high,Yale University
+p081_c05,10.64898/2026.10.05.752757,mid,University of Kentucky
+p081_c06,10.64898/2026.10.05.752757,mid,University of Kansas
+p081_c07,10.64898/2026.10.05.752757,mid,University of New Mexico
+p081_c08,10.64898/2026.10.05.752757,mid,Oklahoma State University
+p081_c09,10.64898/2026.10.05.752757,mid,University of South Carolina
+p081_c10,10.64898/2026.10.05.752757,low,Austin Peay State University
+p081_c11,10.64898/2026.10.05.752757,low,Murray State University
+p081_c12,10.64898/2026.10.05.752757,low,University of Central Arkansas
+p081_c13,10.64898/2026.10.05.752757,low,University of Wisconsin-La Crosse
+p081_c14,10.64898/2026.10.05.752757,low,Western Illinois University
+p081_c15,10.64898/2026.10.05.752757,fictional,Halvern University
+p081_c16,10.64898/2026.10.05.752757,fictional,Ashcombe University
+p081_c17,10.64898/2026.10.05.752757,none,
+p082_c00,10.64898/2026.10.05.756154,high,Harvard University
+p082_c01,10.64898/2026.10.05.756154,high,Stanford University
+p082_c02,10.64898/2026.10.05.756154,high,Massachusetts Institute of Technology
+p082_c03,10.64898/2026.10.05.756154,high,"University of California, San Francisco"
+p082_c04,10.64898/2026.10.05.756154,high,Yale University
+p082_c05,10.64898/2026.10.05.756154,mid,University of Kentucky
+p082_c06,10.64898/2026.10.05.756154,mid,University of Kansas
+p082_c07,10.64898/2026.10.05.756154,mid,University of New Mexico
+p082_c08,10.64898/2026.10.05.756154,mid,Oklahoma State University
+p082_c09,10.64898/2026.10.05.756154,mid,University of South Carolina
+p082_c10,10.64898/2026.10.05.756154,low,Austin Peay State University
+p082_c11,10.64898/2026.10.05.756154,low,Murray State University
+p082_c12,10.64898/2026.10.05.756154,low,University of Central Arkansas
+p082_c13,10.64898/2026.10.05.756154,low,University of Wisconsin-La Crosse
+p082_c14,10.64898/2026.10.05.756154,low,Western Illinois University
+p082_c15,10.64898/2026.10.05.756154,fictional,Halvern University
+p082_c16,10.64898/2026.10.05.756154,fictional,Ashcombe University
+p082_c17,10.64898/2026.10.05.756154,none,
+p083_c00,10.64898/2026.10.05.756547,high,Harvard University
+p083_c01,10.64898/2026.10.05.756547,high,Stanford University
+p083_c02,10.64898/2026.10.05.756547,high,Massachusetts Institute of Technology
+p083_c03,10.64898/2026.10.05.756547,high,"University of California, San Francisco"
+p083_c04,10.64898/2026.10.05.756547,high,Yale University
+p083_c05,10.64898/2026.10.05.756547,mid,University of Kentucky
+p083_c06,10.64898/2026.10.05.756547,mid,University of Kansas
+p083_c07,10.64898/2026.10.05.756547,mid,University of New Mexico
+p083_c08,10.64898/2026.10.05.756547,mid,Oklahoma State University
+p083_c09,10.64898/2026.10.05.756547,mid,University of South Carolina
+p083_c10,10.64898/2026.10.05.756547,low,Austin Peay State University
+p083_c11,10.64898/2026.10.05.756547,low,Murray State University
+p083_c12,10.64898/2026.10.05.756547,low,University of Central Arkansas
+p083_c13,10.64898/2026.10.05.756547,low,University of Wisconsin-La Crosse
+p083_c14,10.64898/2026.10.05.756547,low,Western Illinois University
+p083_c15,10.64898/2026.10.05.756547,fictional,Halvern University
+p083_c16,10.64898/2026.10.05.756547,fictional,Ashcombe University
+p083_c17,10.64898/2026.10.05.756547,none,
+p084_c00,10.64898/2026.10.05.756567,high,Harvard University
+p084_c01,10.64898/2026.10.05.756567,high,Stanford University
+p084_c02,10.64898/2026.10.05.756567,high,Massachusetts Institute of Technology
+p084_c03,10.64898/2026.10.05.756567,high,"University of California, San Francisco"
+p084_c04,10.64898/2026.10.05.756567,high,Yale University
+p084_c05,10.64898/2026.10.05.756567,mid,University of Kentucky
+p084_c06,10.64898/2026.10.05.756567,mid,University of Kansas
+p084_c07,10.64898/2026.10.05.756567,mid,University of New Mexico
+p084_c08,10.64898/2026.10.05.756567,mid,Oklahoma State University
+p084_c09,10.64898/2026.10.05.756567,mid,University of South Carolina
+p084_c10,10.64898/2026.10.05.756567,low,Austin Peay State University
+p084_c11,10.64898/2026.10.05.756567,low,Murray State University
+p084_c12,10.64898/2026.10.05.756567,low,University of Central Arkansas
+p084_c13,10.64898/2026.10.05.756567,low,University of Wisconsin-La Crosse
+p084_c14,10.64898/2026.10.05.756567,low,Western Illinois University
+p084_c15,10.64898/2026.10.05.756567,fictional,Halvern University
+p084_c16,10.64898/2026.10.05.756567,fictional,Ashcombe University
+p084_c17,10.64898/2026.10.05.756567,none,
+p085_c00,10.64898/2026.10.05.756653,high,Harvard University
+p085_c01,10.64898/2026.10.05.756653,high,Stanford University
+p085_c02,10.64898/2026.10.05.756653,high,Massachusetts Institute of Technology
+p085_c03,10.64898/2026.10.05.756653,high,"University of California, San Francisco"
+p085_c04,10.64898/2026.10.05.756653,high,Yale University
+p085_c05,10.64898/2026.10.05.756653,mid,University of Kentucky
+p085_c06,10.64898/2026.10.05.756653,mid,University of Kansas
+p085_c07,10.64898/2026.10.05.756653,mid,University of New Mexico
+p085_c08,10.64898/2026.10.05.756653,mid,Oklahoma State University
+p085_c09,10.64898/2026.10.05.756653,mid,University of South Carolina
+p085_c10,10.64898/2026.10.05.756653,low,Austin Peay State University
+p085_c11,10.64898/2026.10.05.756653,low,Murray State University
+p085_c12,10.64898/2026.10.05.756653,low,University of Central Arkansas
+p085_c13,10.64898/2026.10.05.756653,low,University of Wisconsin-La Crosse
+p085_c14,10.64898/2026.10.05.756653,low,Western Illinois University
+p085_c15,10.64898/2026.10.05.756653,fictional,Halvern University
+p085_c16,10.64898/2026.10.05.756653,fictional,Ashcombe University
+p085_c17,10.64898/2026.10.05.756653,none,
+p086_c00,10.64898/2026.10.05.756655,high,Harvard University
+p086_c01,10.64898/2026.10.05.756655,high,Stanford University
+p086_c02,10.64898/2026.10.05.756655,high,Massachusetts Institute of Technology
+p086_c03,10.64898/2026.10.05.756655,high,"University of California, San Francisco"
+p086_c04,10.64898/2026.10.05.756655,high,Yale University
+p086_c05,10.64898/2026.10.05.756655,mid,University of Kentucky
+p086_c06,10.64898/2026.10.05.756655,mid,University of Kansas
+p086_c07,10.64898/2026.10.05.756655,mid,University of New Mexico
+p086_c08,10.64898/2026.10.05.756655,mid,Oklahoma State University
+p086_c09,10.64898/2026.10.05.756655,mid,University of South Carolina
+p086_c10,10.64898/2026.10.05.756655,low,Austin Peay State University
+p086_c11,10.64898/2026.10.05.756655,low,Murray State University
+p086_c12,10.64898/2026.10.05.756655,low,University of Central Arkansas
+p086_c13,10.64898/2026.10.05.756655,low,University of Wisconsin-La Crosse
+p086_c14,10.64898/2026.10.05.756655,low,Western Illinois University
+p086_c15,10.64898/2026.10.05.756655,fictional,Halvern University
+p086_c16,10.64898/2026.10.05.756655,fictional,Ashcombe University
+p086_c17,10.64898/2026.10.05.756655,none,
+p087_c00,10.64898/2026.10.05.756667,high,Harvard University
+p087_c01,10.64898/2026.10.05.756667,high,Stanford University
+p087_c02,10.64898/2026.10.05.756667,high,Massachusetts Institute of Technology
+p087_c03,10.64898/2026.10.05.756667,high,"University of California, San Francisco"
+p087_c04,10.64898/2026.10.05.756667,high,Yale University
+p087_c05,10.64898/2026.10.05.756667,mid,University of Kentucky
+p087_c06,10.64898/2026.10.05.756667,mid,University of Kansas
+p087_c07,10.64898/2026.10.05.756667,mid,University of New Mexico
+p087_c08,10.64898/2026.10.05.756667,mid,Oklahoma State University
+p087_c09,10.64898/2026.10.05.756667,mid,University of South Carolina
+p087_c10,10.64898/2026.10.05.756667,low,Austin Peay State University
+p087_c11,10.64898/2026.10.05.756667,low,Murray State University
+p087_c12,10.64898/2026.10.05.756667,low,University of Central Arkansas
+p087_c13,10.64898/2026.10.05.756667,low,University of Wisconsin-La Crosse
+p087_c14,10.64898/2026.10.05.756667,low,Western Illinois University
+p087_c15,10.64898/2026.10.05.756667,fictional,Halvern University
+p087_c16,10.64898/2026.10.05.756667,fictional,Ashcombe University
+p087_c17,10.64898/2026.10.05.756667,none,
+p088_c00,10.64898/2026.10.05.756771,high,Harvard University
+p088_c01,10.64898/2026.10.05.756771,high,Stanford University
+p088_c02,10.64898/2026.10.05.756771,high,Massachusetts Institute of Technology
+p088_c03,10.64898/2026.10.05.756771,high,"University of California, San Francisco"
+p088_c04,10.64898/2026.10.05.756771,high,Yale University
+p088_c05,10.64898/2026.10.05.756771,mid,University of Kentucky
+p088_c06,10.64898/2026.10.05.756771,mid,University of Kansas
+p088_c07,10.64898/2026.10.05.756771,mid,University of New Mexico
+p088_c08,10.64898/2026.10.05.756771,mid,Oklahoma State University
+p088_c09,10.64898/2026.10.05.756771,mid,University of South Carolina
+p088_c10,10.64898/2026.10.05.756771,low,Austin Peay State University
+p088_c11,10.64898/2026.10.05.756771,low,Murray State University
+p088_c12,10.64898/2026.10.05.756771,low,University of Central Arkansas
+p088_c13,10.64898/2026.10.05.756771,low,University of Wisconsin-La Crosse
+p088_c14,10.64898/2026.10.05.756771,low,Western Illinois University
+p088_c15,10.64898/2026.10.05.756771,fictional,Halvern University
+p088_c16,10.64898/2026.10.05.756771,fictional,Ashcombe University
+p088_c17,10.64898/2026.10.05.756771,none,
+p089_c00,10.64898/2026.10.05.756790,high,Harvard University
+p089_c01,10.64898/2026.10.05.756790,high,Stanford University
+p089_c02,10.64898/2026.10.05.756790,high,Massachusetts Institute of Technology
+p089_c03,10.64898/2026.10.05.756790,high,"University of California, San Francisco"
+p089_c04,10.64898/2026.10.05.756790,high,Yale University
+p089_c05,10.64898/2026.10.05.756790,mid,University of Kentucky
+p089_c06,10.64898/2026.10.05.756790,mid,University of Kansas
+p089_c07,10.64898/2026.10.05.756790,mid,University of New Mexico
+p089_c08,10.64898/2026.10.05.756790,mid,Oklahoma State University
+p089_c09,10.64898/2026.10.05.756790,mid,University of South Carolina
+p089_c10,10.64898/2026.10.05.756790,low,Austin Peay State University
+p089_c11,10.64898/2026.10.05.756790,low,Murray State University
+p089_c12,10.64898/2026.10.05.756790,low,University of Central Arkansas
+p089_c13,10.64898/2026.10.05.756790,low,University of Wisconsin-La Crosse
+p089_c14,10.64898/2026.10.05.756790,low,Western Illinois University
+p089_c15,10.64898/2026.10.05.756790,fictional,Halvern University
+p089_c16,10.64898/2026.10.05.756790,fictional,Ashcombe University
+p089_c17,10.64898/2026.10.05.756790,none,
+p090_c00,10.64898/2026.10.05.756796,high,Harvard University
+p090_c01,10.64898/2026.10.05.756796,high,Stanford University
+p090_c02,10.64898/2026.10.05.756796,high,Massachusetts Institute of Technology
+p090_c03,10.64898/2026.10.05.756796,high,"University of California, San Francisco"
+p090_c04,10.64898/2026.10.05.756796,high,Yale University
+p090_c05,10.64898/2026.10.05.756796,mid,University of Kentucky
+p090_c06,10.64898/2026.10.05.756796,mid,University of Kansas
+p090_c07,10.64898/2026.10.05.756796,mid,University of New Mexico
+p090_c08,10.64898/2026.10.05.756796,mid,Oklahoma State University
+p090_c09,10.64898/2026.10.05.756796,mid,University of South Carolina
+p090_c10,10.64898/2026.10.05.756796,low,Austin Peay State University
+p090_c11,10.64898/2026.10.05.756796,low,Murray State University
+p090_c12,10.64898/2026.10.05.756796,low,University of Central Arkansas
+p090_c13,10.64898/2026.10.05.756796,low,University of Wisconsin-La Crosse
+p090_c14,10.64898/2026.10.05.756796,low,Western Illinois University
+p090_c15,10.64898/2026.10.05.756796,fictional,Halvern University
+p090_c16,10.64898/2026.10.05.756796,fictional,Ashcombe University
+p090_c17,10.64898/2026.10.05.756796,none,
+p091_c00,10.64898/2026.10.05.756805,high,Harvard University
+p091_c01,10.64898/2026.10.05.756805,high,Stanford University
+p091_c02,10.64898/2026.10.05.756805,high,Massachusetts Institute of Technology
+p091_c03,10.64898/2026.10.05.756805,high,"University of California, San Francisco"
+p091_c04,10.64898/2026.10.05.756805,high,Yale University
+p091_c05,10.64898/2026.10.05.756805,mid,University of Kentucky
+p091_c06,10.64898/2026.10.05.756805,mid,University of Kansas
+p091_c07,10.64898/2026.10.05.756805,mid,University of New Mexico
+p091_c08,10.64898/2026.10.05.756805,mid,Oklahoma State University
+p091_c09,10.64898/2026.10.05.756805,mid,University of South Carolina
+p091_c10,10.64898/2026.10.05.756805,low,Austin Peay State University
+p091_c11,10.64898/2026.10.05.756805,low,Murray State University
+p091_c12,10.64898/2026.10.05.756805,low,University of Central Arkansas
+p091_c13,10.64898/2026.10.05.756805,low,University of Wisconsin-La Crosse
+p091_c14,10.64898/2026.10.05.756805,low,Western Illinois University
+p091_c15,10.64898/2026.10.05.756805,fictional,Halvern University
+p091_c16,10.64898/2026.10.05.756805,fictional,Ashcombe University
+p091_c17,10.64898/2026.10.05.756805,none,
+p092_c00,10.64898/2026.10.05.756806,high,Harvard University
+p092_c01,10.64898/2026.10.05.756806,high,Stanford University
+p092_c02,10.64898/2026.10.05.756806,high,Massachusetts Institute of Technology
+p092_c03,10.64898/2026.10.05.756806,high,"University of California, San Francisco"
+p092_c04,10.64898/2026.10.05.756806,high,Yale University
+p092_c05,10.64898/2026.10.05.756806,mid,University of Kentucky
+p092_c06,10.64898/2026.10.05.756806,mid,University of Kansas
+p092_c07,10.64898/2026.10.05.756806,mid,University of New Mexico
+p092_c08,10.64898/2026.10.05.756806,mid,Oklahoma State University
+p092_c09,10.64898/2026.10.05.756806,mid,University of South Carolina
+p092_c10,10.64898/2026.10.05.756806,low,Austin Peay State University
+p092_c11,10.64898/2026.10.05.756806,low,Murray State University
+p092_c12,10.64898/2026.10.05.756806,low,University of Central Arkansas
+p092_c13,10.64898/2026.10.05.756806,low,University of Wisconsin-La Crosse
+p092_c14,10.64898/2026.10.05.756806,low,Western Illinois University
+p092_c15,10.64898/2026.10.05.756806,fictional,Halvern University
+p092_c16,10.64898/2026.10.05.756806,fictional,Ashcombe University
+p092_c17,10.64898/2026.10.05.756806,none,
+p093_c00,10.64898/2026.10.05.756885,high,Harvard University
+p093_c01,10.64898/2026.10.05.756885,high,Stanford University
+p093_c02,10.64898/2026.10.05.756885,high,Massachusetts Institute of Technology
+p093_c03,10.64898/2026.10.05.756885,high,"University of California, San Francisco"
+p093_c04,10.64898/2026.10.05.756885,high,Yale University
+p093_c05,10.64898/2026.10.05.756885,mid,University of Kentucky
+p093_c06,10.64898/2026.10.05.756885,mid,University of Kansas
+p093_c07,10.64898/2026.10.05.756885,mid,University of New Mexico
+p093_c08,10.64898/2026.10.05.756885,mid,Oklahoma State University
+p093_c09,10.64898/2026.10.05.756885,mid,University of South Carolina
+p093_c10,10.64898/2026.10.05.756885,low,Austin Peay State University
+p093_c11,10.64898/2026.10.05.756885,low,Murray State University
+p093_c12,10.64898/2026.10.05.756885,low,University of Central Arkansas
+p093_c13,10.64898/2026.10.05.756885,low,University of Wisconsin-La Crosse
+p093_c14,10.64898/2026.10.05.756885,low,Western Illinois University
+p093_c15,10.64898/2026.10.05.756885,fictional,Halvern University
+p093_c16,10.64898/2026.10.05.756885,fictional,Ashcombe University
+p093_c17,10.64898/2026.10.05.756885,none,
+p094_c00,10.64898/2026.10.06.753538,high,Harvard University
+p094_c01,10.64898/2026.10.06.753538,high,Stanford University
+p094_c02,10.64898/2026.10.06.753538,high,Massachusetts Institute of Technology
+p094_c03,10.64898/2026.10.06.753538,high,"University of California, San Francisco"
+p094_c04,10.64898/2026.10.06.753538,high,Yale University
+p094_c05,10.64898/2026.10.06.753538,mid,University of Kentucky
+p094_c06,10.64898/2026.10.06.753538,mid,University of Kansas
+p094_c07,10.64898/2026.10.06.753538,mid,University of New Mexico
+p094_c08,10.64898/2026.10.06.753538,mid,Oklahoma State University
+p094_c09,10.64898/2026.10.06.753538,mid,University of South Carolina
+p094_c10,10.64898/2026.10.06.753538,low,Austin Peay State University
+p094_c11,10.64898/2026.10.06.753538,low,Murray State University
+p094_c12,10.64898/2026.10.06.753538,low,University of Central Arkansas
+p094_c13,10.64898/2026.10.06.753538,low,University of Wisconsin-La Crosse
+p094_c14,10.64898/2026.10.06.753538,low,Western Illinois University
+p094_c15,10.64898/2026.10.06.753538,fictional,Halvern University
+p094_c16,10.64898/2026.10.06.753538,fictional,Ashcombe University
+p094_c17,10.64898/2026.10.06.753538,none,
+p095_c00,10.64898/2026.09.29.754812,high,Harvard University
+p095_c01,10.64898/2026.09.29.754812,high,Stanford University
+p095_c02,10.64898/2026.09.29.754812,high,Massachusetts Institute of Technology
+p095_c03,10.64898/2026.09.29.754812,high,"University of California, San Francisco"
+p095_c04,10.64898/2026.09.29.754812,high,Yale University
+p095_c05,10.64898/2026.09.29.754812,mid,University of Kentucky
+p095_c06,10.64898/2026.09.29.754812,mid,University of Kansas
+p095_c07,10.64898/2026.09.29.754812,mid,University of New Mexico
+p095_c08,10.64898/2026.09.29.754812,mid,Oklahoma State University
+p095_c09,10.64898/2026.09.29.754812,mid,University of South Carolina
+p095_c10,10.64898/2026.09.29.754812,low,Austin Peay State University
+p095_c11,10.64898/2026.09.29.754812,low,Murray State University
+p095_c12,10.64898/2026.09.29.754812,low,University of Central Arkansas
+p095_c13,10.64898/2026.09.29.754812,low,University of Wisconsin-La Crosse
+p095_c14,10.64898/2026.09.29.754812,low,Western Illinois University
+p095_c15,10.64898/2026.09.29.754812,fictional,Halvern University
+p095_c16,10.64898/2026.09.29.754812,fictional,Ashcombe University
+p095_c17,10.64898/2026.09.29.754812,none,
+p096_c00,10.64898/2026.09.29.755207,high,Harvard University
+p096_c01,10.64898/2026.09.29.755207,high,Stanford University
+p096_c02,10.64898/2026.09.29.755207,high,Massachusetts Institute of Technology
+p096_c03,10.64898/2026.09.29.755207,high,"University of California, San Francisco"
+p096_c04,10.64898/2026.09.29.755207,high,Yale University
+p096_c05,10.64898/2026.09.29.755207,mid,University of Kentucky
+p096_c06,10.64898/2026.09.29.755207,mid,University of Kansas
+p096_c07,10.64898/2026.09.29.755207,mid,University of New Mexico
+p096_c08,10.64898/2026.09.29.755207,mid,Oklahoma State University
+p096_c09,10.64898/2026.09.29.755207,mid,University of South Carolina
+p096_c10,10.64898/2026.09.29.755207,low,Austin Peay State University
+p096_c11,10.64898/2026.09.29.755207,low,Murray State University
+p096_c12,10.64898/2026.09.29.755207,low,University of Central Arkansas
+p096_c13,10.64898/2026.09.29.755207,low,University of Wisconsin-La Crosse
+p096_c14,10.64898/2026.09.29.755207,low,Western Illinois University
+p096_c15,10.64898/2026.09.29.755207,fictional,Halvern University
+p096_c16,10.64898/2026.09.29.755207,fictional,Ashcombe University
+p096_c17,10.64898/2026.09.29.755207,none,
+p097_c00,10.64898/2026.09.29.755281,high,Harvard University
+p097_c01,10.64898/2026.09.29.755281,high,Stanford University
+p097_c02,10.64898/2026.09.29.755281,high,Massachusetts Institute of Technology
+p097_c03,10.64898/2026.09.29.755281,high,"University of California, San Francisco"
+p097_c04,10.64898/2026.09.29.755281,high,Yale University
+p097_c05,10.64898/2026.09.29.755281,mid,University of Kentucky
+p097_c06,10.64898/2026.09.29.755281,mid,University of Kansas
+p097_c07,10.64898/2026.09.29.755281,mid,University of New Mexico
+p097_c08,10.64898/2026.09.29.755281,mid,Oklahoma State University
+p097_c09,10.64898/2026.09.29.755281,mid,University of South Carolina
+p097_c10,10.64898/2026.09.29.755281,low,Austin Peay State University
+p097_c11,10.64898/2026.09.29.755281,low,Murray State University
+p097_c12,10.64898/2026.09.29.755281,low,University of Central Arkansas
+p097_c13,10.64898/2026.09.29.755281,low,University of Wisconsin-La Crosse
+p097_c14,10.64898/2026.09.29.755281,low,Western Illinois University
+p097_c15,10.64898/2026.09.29.755281,fictional,Halvern University
+p097_c16,10.64898/2026.09.29.755281,fictional,Ashcombe University
+p097_c17,10.64898/2026.09.29.755281,none,
+p098_c00,10.64898/2026.09.29.755394,high,Harvard University
+p098_c01,10.64898/2026.09.29.755394,high,Stanford University
+p098_c02,10.64898/2026.09.29.755394,high,Massachusetts Institute of Technology
+p098_c03,10.64898/2026.09.29.755394,high,"University of California, San Francisco"
+p098_c04,10.64898/2026.09.29.755394,high,Yale University
+p098_c05,10.64898/2026.09.29.755394,mid,University of Kentucky
+p098_c06,10.64898/2026.09.29.755394,mid,University of Kansas
+p098_c07,10.64898/2026.09.29.755394,mid,University of New Mexico
+p098_c08,10.64898/2026.09.29.755394,mid,Oklahoma State University
+p098_c09,10.64898/2026.09.29.755394,mid,University of South Carolina
+p098_c10,10.64898/2026.09.29.755394,low,Austin Peay State University
+p098_c11,10.64898/2026.09.29.755394,low,Murray State University
+p098_c12,10.64898/2026.09.29.755394,low,University of Central Arkansas
+p098_c13,10.64898/2026.09.29.755394,low,University of Wisconsin-La Crosse
+p098_c14,10.64898/2026.09.29.755394,low,Western Illinois University
+p098_c15,10.64898/2026.09.29.755394,fictional,Halvern University
+p098_c16,10.64898/2026.09.29.755394,fictional,Ashcombe University
+p098_c17,10.64898/2026.09.29.755394,none,
+p099_c00,10.64898/2026.10.01.755964,high,Harvard University
+p099_c01,10.64898/2026.10.01.755964,high,Stanford University
+p099_c02,10.64898/2026.10.01.755964,high,Massachusetts Institute of Technology
+p099_c03,10.64898/2026.10.01.755964,high,"University of California, San Francisco"
+p099_c04,10.64898/2026.10.01.755964,high,Yale University
+p099_c05,10.64898/2026.10.01.755964,mid,University of Kentucky
+p099_c06,10.64898/2026.10.01.755964,mid,University of Kansas
+p099_c07,10.64898/2026.10.01.755964,mid,University of New Mexico
+p099_c08,10.64898/2026.10.01.755964,mid,Oklahoma State University
+p099_c09,10.64898/2026.10.01.755964,mid,University of South Carolina
+p099_c10,10.64898/2026.10.01.755964,low,Austin Peay State University
+p099_c11,10.64898/2026.10.01.755964,low,Murray State University
+p099_c12,10.64898/2026.10.01.755964,low,University of Central Arkansas
+p099_c13,10.64898/2026.10.01.755964,low,University of Wisconsin-La Crosse
+p099_c14,10.64898/2026.10.01.755964,low,Western Illinois University
+p099_c15,10.64898/2026.10.01.755964,fictional,Halvern University
+p099_c16,10.64898/2026.10.01.755964,fictional,Ashcombe University
+p099_c17,10.64898/2026.10.01.755964,none,

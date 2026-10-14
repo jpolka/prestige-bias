@@ -1,0 +1,24 @@
+# Python virtual environment (large, machine-specific; recreate with pip)
+venv/
+
+# Secrets: never commit API keys
+.env
+
+# Fake test output
+results_dryrun.csv
+results_dryrun_chart.png
+
+# Python cache and macOS clutter
+__pycache__/
+.DS_Store
+
+# Personal working notes for Claude Code (kept off the public repo)
+CLAUDE.md
+.claude/
+
+# Pilot (v1) files: kept locally, not part of the published benchmark
+run_experiment.py
+analyze.py
+abstracts.csv
+results.csv
+results_chart.png

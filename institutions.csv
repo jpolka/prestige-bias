@@ -1,0 +1,19 @@
+tier,institution,country,carnegie_2025,rationale
+high,Harvard University,US,R1,Elite private research university; whole-university name avoids the medical-school field-fit problem of "Harvard Medical School"
+high,Stanford University,US,R1,Elite private research university
+high,Massachusetts Institute of Technology,US,R1,Elite private research university; strong in cell and molecular biology
+high,"University of California, San Francisco",US,R1,Elite biomedical research university; public
+high,Yale University,US,R1,Elite private research university (Johns Hopkins excluded: it is a real affiliation in abstracts.csv)
+mid,University of Kentucky,US,R1,"Public flagship, research-active, not elite"
+mid,University of Kansas,US,R1,"Public flagship, research-active, not elite"
+mid,University of New Mexico,US,R1,"Public flagship, research-active, not elite (Carnegie entry: Main Campus)"
+mid,Oklahoma State University,US,R1,"Public, research-active, not elite; ""State"" name form also appears in low tier (Carnegie entry: Main Campus)"
+mid,University of South Carolina,US,R1,"Public flagship, research-active, not elite (Carnegie entry: Columbia)"
+low,Austin Peay State University,US,RCU,"Regional public university, teaching-focused, some research"
+low,Murray State University,US,RCU,"Regional public university, teaching-focused, some research (replaced Southeast Missouri State: no research designation)"
+low,University of Central Arkansas,US,RCU,"Regional public university; ""University of X"" name form also appears in mid tier"
+low,University of Wisconsin-La Crosse,US,RCU,"Regional public university, teaching-focused, some research (replaced Tarleton State: R2)"
+low,Western Illinois University,US,RCU,"Regional public university, teaching-focused, some research"
+fictional,Halvern University,none,n/a,Control: unknown institution. No real institution by this name found (web search 2026-10-14)
+fictional,Ashcombe University,none,n/a,Control: unknown institution. No university by this name found; Ashcombe is a village in Devon and a school in Surrey
+none,,none,n/a,Control: affiliation line omitted entirely
